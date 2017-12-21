@@ -1,28 +1,12 @@
-# Deep Learning Papers Reading Roadmap
+# Papers on Understanding and Explaining Neural Networks
 
->If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
-
->Here is a reading roadmap of Deep Learning papers!
-
-The roadmap is constructed in accordance with the following four guidelines:
-
-- From outline to detail
-- From old to state-of-the-art
-- from generic to specific areas
-- focus on state-of-the-art
-
-You will find many papers that are quite new but really worth reading.
-
-I would continue adding papers to this roadmap.
-
+This is an on-going attempt to consolidate all interesting efforts in the area of understanding / interpreting / explaining / visualizing neural networks.
 
 ---------------------------------------
 
-# 1 Deep Learning History and Basics
+# 1 GUI tools
 
-## 1.0 Book
-
-**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [[html]](http://www.deeplearningbook.org/) **(Deep Learning Bible, you can read this book while reading following papers.)** :star::star::star::star::star:
+**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [[html]](http://www.deeplearningbook.org/) **(Deep Learning Bible, you can read this book while reading following papers.)** 
 
 ## 1.1 Survey
 
