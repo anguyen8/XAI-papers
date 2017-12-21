@@ -4,12 +4,14 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 ---------------------------------------
 
-# 1 GUI tools
+## 1. GUI tools
 
-1. Deep Visualization 
+* Deep Visualization 
 
-## 1.1 Survey
+## 2. Feature Visualization / Activation Maximization
+* DGN-AM
+* PPGN
 
-**[1]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) **(Three Giants' Survey)** :star::star::star::star::star:
+## 3. Heatmap / Attribution
 
-
+* Learning how to explain neural networks: PatternNet and PatternAttribution ([pdf](https://arxiv.org/abs/1705.05598))
