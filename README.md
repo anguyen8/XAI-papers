@@ -14,4 +14,4 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 ## 3. Heatmap / Attribution
 
-* Learning how to explain neural networks: PatternNet and PatternAttribution ([pdf](https://arxiv.org/abs/1705.05598))
+* Learning how to explain neural networks: PatternNet and PatternAttribution ( [pdf](https://arxiv.org/abs/1705.05598) )
