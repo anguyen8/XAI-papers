@@ -14,8 +14,8 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 ## 3. Heatmap / Attribution
 
-* Learning how to explain neural networks: PatternNet and PatternAttribution ( [pdf](https://arxiv.org/abs/1705.05598) )
+* Learning how to explain neural networks: PatternNet and PatternAttribution ([pdf](https://arxiv.org/abs/1705.05598))
 
 ## 4. Bayesian
 
-* Yang, S. C. H., & Shafto, P. Explainable Artificial Intelligence via Bayesian Teaching. NIPS 2017 [pdf](http://shaftolab.com/assets/papers/yangShafto_NIPS_2017_machine_teaching.pdf)
+* Yang, S. C. H., & Shafto, P. _Explainable Artificial Intelligence via Bayesian Teaching_. NIPS 2017 ([pdf](http://shaftolab.com/assets/papers/yangShafto_NIPS_2017_machine_teaching.pdf))
