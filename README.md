@@ -18,4 +18,4 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 ## 4. Bayesian
 
-* Yang, S. C. H., & Shafto, P. _Explainable Artificial Intelligence via Bayesian Teaching_. NIPS 2017 ([pdf](http://shaftolab.com/assets/papers/yangShafto_NIPS_2017_machine_teaching.pdf))
+* Yang, S. C. H., & Shafto, P. Explainable Artificial Intelligence via Bayesian Teaching. NIPS 2017 ([pdf](http://shaftolab.com/assets/papers/yangShafto_NIPS_2017_machine_teaching.pdf))
