@@ -25,4 +25,4 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 
 ## Distilling DNNs into more interpretable models
-* ([Interpreting CNNs via Decision Trees](https://arxiv.org/abs/1802.00121))
+* [Interpreting CNNs via Decision Trees](https://arxiv.org/abs/1802.00121)
