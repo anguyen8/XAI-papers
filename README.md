@@ -23,7 +23,9 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 * Yang, S. C. H., & Shafto, P. Explainable Artificial Intelligence via Bayesian Teaching. NIPS 2017 ([pdf](http://shaftolab.com/assets/papers/yangShafto_NIPS_2017_machine_teaching.pdf))
 
-
 ## Distilling DNNs into more interpretable models
 * [Interpreting CNNs via Decision Trees](https://arxiv.org/abs/1802.00121)
 * [Distilling a Neural Network Into a Soft Decision Tree](https://arxiv.org/abs/1711.09784)
+
+## DNNs that learn to explain
+* [Deep Learning for Case-Based Reasoning through Prototypes](https://arxiv.org/pdf/1710.04806.pdf)
