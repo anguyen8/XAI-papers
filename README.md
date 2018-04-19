@@ -6,7 +6,7 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 ## 1. GUI tools
 
-* Deep Visualization 
+* [Deep Visualization Toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 
 ## 2. Feature Visualization / Activation Maximization
 * DGN-AM
