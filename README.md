@@ -5,12 +5,11 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 ---------------------------------------
 
 ## 1. GUI tools
-
-* Deep Visualization Toolbox [code](https://github.com/yosinski/deep-visualization-toolbox) | [paper](http://yosinski.com/deepvis)
+* Deep Visualization Toolbox [code](https://github.com/yosinski/deep-visualization-toolbox) | [pdf](http://yosinski.com/deepvis)
 
 ## 2. Feature Visualization / Activation Maximization
-* DGN-AM
-* PPGN
+* Synthesizing the preferred inputs for neurons in neural networks via deep generator networks [code](https://github.com/Evolving-AI-Lab/synthesizing) | [pdf](anhnguyen.me/project/synthesizing)
+* Plug and Play Generative Networks [pdf](anhnguyen.me/project/ppgn/) | [code](https://github.com/Evolving-AI-Lab/ppgn)
 
 ## 3. Heatmap / Attribution
 * Learning how to explain neural networks: PatternNet and PatternAttribution ([pdf](https://arxiv.org/abs/1705.05598))
