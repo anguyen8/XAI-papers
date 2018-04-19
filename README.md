@@ -6,14 +6,13 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 ## 1. GUI tools
 
-* [Deep Visualization Toolbox](https://github.com/yosinski/deep-visualization-toolbox)
+* Deep Visualization Toolbox [code](https://github.com/yosinski/deep-visualization-toolbox) | [paper](http://yosinski.com/deepvis)
 
 ## 2. Feature Visualization / Activation Maximization
 * DGN-AM
 * PPGN
 
 ## 3. Heatmap / Attribution
-
 * Learning how to explain neural networks: PatternNet and PatternAttribution ([pdf](https://arxiv.org/abs/1705.05598))
 
 ### Layer-wise Backpropagation
@@ -25,11 +24,11 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 * Yang, S. C. H., & Shafto, P. Explainable Artificial Intelligence via Bayesian Teaching. NIPS 2017 ([pdf](http://shaftolab.com/assets/papers/yangShafto_NIPS_2017_machine_teaching.pdf))
 
 ## 5. Distilling DNNs into more interpretable models
-* [Interpreting CNNs via Decision Trees](https://arxiv.org/abs/1802.00121)
-* [Distilling a Neural Network Into a Soft Decision Tree](https://arxiv.org/abs/1711.09784)
+* Interpreting CNNs via Decision Trees [pdf](https://arxiv.org/abs/1802.00121)
+* Distilling a Neural Network Into a Soft Decision Tree [pdf](https://arxiv.org/abs/1711.09784)
 
 ## 6. DNNs that learn to explain
-* [Deep Learning for Case-Based Reasoning through Prototypes](https://arxiv.org/pdf/1710.04806.pdf)
+* Deep Learning for Case-Based Reasoning through Prototypes [pdf](https://arxiv.org/pdf/1710.04806.pdf)
 
 ## 7. Others
-* [Understanding Deep Architectures by Interpretable Visual Summaries](https://arxiv.org/pdf/1801.09103.pdf)
+* Understanding Deep Architectures by Interpretable Visual Summaries [pdf](https://arxiv.org/pdf/1801.09103.pdf)
