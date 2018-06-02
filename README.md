@@ -19,7 +19,6 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 * Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation [pdf](https://arxiv.org/abs/1712.08268)
 * Explaining NonLinear Classification Decisions With Deep Tayor Decomposition [pdf](https://arxiv.org/abs/1512.02479)
 
-
 ## 4. Inverting Neural Networks
 * Understanding Deep Image Representations by Inverting Them [pdf](https://arxiv.org/abs/1412.0035)
 * Inverting Visual Representations with Convolutional Networks [pdf](https://arxiv.org/abs/1506.02753)
@@ -35,6 +34,7 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 ## 7. DNNs that learn to explain
 * Deep Learning for Case-Based Reasoning through Prototypes [pdf](https://arxiv.org/pdf/1710.04806.pdf)
+* Unsupervised Learning of Neural Networks to Explain Neural Networks [pdf](https://arxiv.org/abs/1805.07468)
 
 ## 8. Others
 * Understanding Deep Architectures by Interpretable Visual Summaries [pdf](https://arxiv.org/pdf/1801.09103.pdf)
