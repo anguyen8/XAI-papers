@@ -13,10 +13,12 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 ## 3. Heatmap / Attribution
 * Learning how to explain neural networks: PatternNet and PatternAttribution ([pdf](https://arxiv.org/abs/1705.05598))
+* A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations [pdf](https://arxiv.org/abs/1805.07039)
 
 ### Layer-wise Backpropagation
 * Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation [pdf](https://arxiv.org/abs/1712.08268)
 * Explaining NonLinear Classification Decisions With Deep Tayor Decomposition [pdf](https://arxiv.org/abs/1512.02479)
+
 
 ## 4. Inverting Neural Networks
 * Understanding Deep Image Representations by Inverting Them [pdf](https://arxiv.org/abs/1412.0035)
