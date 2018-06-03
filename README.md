@@ -18,7 +18,7 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 ## 2. Feature Visualization / Activation Maximization
 * Visualizing higher-layer features of a deep network. _Erhan et al. 2009_ [pdf](https://www.researchgate.net/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network)
 * Synthesizing the preferred inputs for neurons in neural networks via deep generator networks. _Nguyen et al. 2016_ [code](https://github.com/Evolving-AI-Lab/synthesizing) | [pdf](anhnguyen.me/project/synthesizing)
-* Plug and Play Generative Networks _Nguyen et al. 2017_ [pdf](anhnguyen.me/project/ppgn/) | [code](https://github.com/Evolving-AI-Lab/ppgn)
+* Plug and Play Generative Networks. _Nguyen et al. 2017_ [pdf](anhnguyen.me/project/ppgn/) | [code](https://github.com/Evolving-AI-Lab/ppgn)
 
 ## 3. Heatmap / Attribution
 * Learning how to explain neural networks: PatternNet and PatternAttribution [pdf](https://arxiv.org/abs/1705.05598)
