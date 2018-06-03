@@ -5,7 +5,7 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 ---------------------------------------
 
 ## 0. GUI tools
-* Deep Visualization Toolbox [code](https://github.com/yosinski/deep-visualization-toolbox) | [pdf](http://yosinski.com/deepvis)
+* Deep Visualization Toolbox. _Yosinski et al. 2015_ [code](https://github.com/yosinski/deep-visualization-toolbox) | [pdf](http://yosinski.com/deepvis)
 
 ## 1. Surveys
 * Methods for Interpreting and Understanding Deep Neural Networks [pdf](https://arxiv.org/pdf/1706.07979.pdf)
