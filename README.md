@@ -1,11 +1,20 @@
-# Papers on Understanding and Explaining Neural Networks
+# Papers on Explainable Artificial Intelligence
 
-This is an on-going attempt to consolidate all interesting efforts in the area of understanding / interpreting / explaining / visualizing neural networks.
+This is an on-going attempt to consolidate all interesting efforts in the area of understanding / interpreting / explaining / visualizing machine learning models.
 
 ---------------------------------------
 
-## 1. GUI tools
+## 0. GUI tools
 * Deep Visualization Toolbox [code](https://github.com/yosinski/deep-visualization-toolbox) | [pdf](http://yosinski.com/deepvis)
+
+## 1. Surveys
+* Methods for Interpreting and Understanding Deep Neural Networks [pdf](https://arxiv.org/pdf/1706.07979.pdf)
+* The Mythos of Model Interpretability [pdf](https://arxiv.org/abs/1606.03490)
+* Towards A Rigorous Science of Interpretable Machine Learning [pdf](https://arxiv.org/pdf/1702.08608.pdf)
+* A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks [pdf](https://arxiv.org/pdf/1606.07757.pdf)
+* Visualizations of Deep Neural Networks in Computer Vision: A Survey (Seifert et al. 2017) [pdf](https://link.springer.com/chapter/10.1007/978-3-319-54024-5_6)
+* How convolutional neural network see the world - A survey of convolutional neural network visualization methods (Qin et al. 2018) [pdf](https://arxiv.org/abs/1804.11191)
+* A brief survey of visualization methods for deep learning models from the perspective of Explainable AI (Chalkiadakis 2018) [pdf](https://www.macs.hw.ac.uk/~ic14/IoannisChalkiadakis_RRR.pdf)
 
 ## 2. Feature Visualization / Activation Maximization
 * Synthesizing the preferred inputs for neurons in neural networks via deep generator networks [code](https://github.com/Evolving-AI-Lab/synthesizing) | [pdf](anhnguyen.me/project/synthesizing)
