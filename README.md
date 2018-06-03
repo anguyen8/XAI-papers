@@ -16,8 +16,9 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 * A brief survey of visualization methods for deep learning models from the perspective of Explainable AI (Chalkiadakis 2018) [pdf](https://www.macs.hw.ac.uk/~ic14/IoannisChalkiadakis_RRR.pdf)
 
 ## 2. Feature Visualization / Activation Maximization
-* Synthesizing the preferred inputs for neurons in neural networks via deep generator networks [code](https://github.com/Evolving-AI-Lab/synthesizing) | [pdf](anhnguyen.me/project/synthesizing)
-* Plug and Play Generative Networks [pdf](anhnguyen.me/project/ppgn/) | [code](https://github.com/Evolving-AI-Lab/ppgn)
+* Visualizing higher-layer features of a deep network. _Erhan et al. 2009_ [pdf](https://www.researchgate.net/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network)
+* Synthesizing the preferred inputs for neurons in neural networks via deep generator networks. _Nguyen et al. 2016_ [code](https://github.com/Evolving-AI-Lab/synthesizing) | [pdf](anhnguyen.me/project/synthesizing)
+* Plug and Play Generative Networks _Nguyen et al. 2017_ [pdf](anhnguyen.me/project/ppgn/) | [code](https://github.com/Evolving-AI-Lab/ppgn)
 
 ## 3. Heatmap / Attribution
 * Learning how to explain neural networks: PatternNet and PatternAttribution [pdf](https://arxiv.org/abs/1705.05598)
