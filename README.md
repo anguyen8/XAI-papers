@@ -11,7 +11,6 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 * Methods for Interpreting and Understanding Deep Neural Networks [pdf](https://arxiv.org/pdf/1706.07979.pdf)
 * The Mythos of Model Interpretability [pdf](https://arxiv.org/abs/1606.03490)
 * Towards A Rigorous Science of Interpretable Machine Learning [pdf](https://arxiv.org/pdf/1702.08608.pdf)
-* A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks [pdf](https://arxiv.org/pdf/1606.07757.pdf)
 * Visualizations of Deep Neural Networks in Computer Vision: A Survey (Seifert et al. 2017) [pdf](https://link.springer.com/chapter/10.1007/978-3-319-54024-5_6)
 * How convolutional neural network see the world - A survey of convolutional neural network visualization methods (Qin et al. 2018) [pdf](https://arxiv.org/abs/1804.11191)
 * A brief survey of visualization methods for deep learning models from the perspective of Explainable AI (Chalkiadakis 2018) [pdf](https://www.macs.hw.ac.uk/~ic14/IoannisChalkiadakis_RRR.pdf)
@@ -23,6 +22,7 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 ## 3. Heatmap / Attribution
 * Learning how to explain neural networks: PatternNet and PatternAttribution ([pdf](https://arxiv.org/abs/1705.05598))
 * A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations [pdf](https://arxiv.org/abs/1805.07039)
+* A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks [pdf](https://arxiv.org/pdf/1606.07757.pdf)
 
 ### Layer-wise Backpropagation
 * Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation [pdf](https://arxiv.org/abs/1712.08268)
