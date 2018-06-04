@@ -9,7 +9,7 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 # Surveys
 * Methods for Interpreting and Understanding Deep Neural Networks. _Montavon et al. 2017_ [pdf](https://arxiv.org/pdf/1706.07979.pdf)
-* The Mythos of Model Interpretability. Lipton 2016 [pdf](https://arxiv.org/abs/1606.03490)
+* The Mythos of Model Interpretability. _Lipton 2016_ [pdf](https://arxiv.org/abs/1606.03490)
 * Towards A Rigorous Science of Interpretable Machine Learning _Doshi-Velez & Kim. 2017_ [pdf](https://arxiv.org/pdf/1702.08608.pdf)
 * Visualizations of Deep Neural Networks in Computer Vision: A Survey. _Seifert et al. 2017_ [pdf](https://link.springer.com/chapter/10.1007/978-3-319-54024-5_6)
 * How convolutional neural network see the world - A survey of convolutional neural network visualization methods. _Qin et al. 2018_ [pdf](https://arxiv.org/abs/1804.11191)
