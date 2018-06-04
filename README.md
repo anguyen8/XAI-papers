@@ -8,12 +8,12 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 * Deep Visualization Toolbox. _Yosinski et al. 2015_ [code](https://github.com/yosinski/deep-visualization-toolbox) | [pdf](http://yosinski.com/deepvis)
 
 # Surveys
-* Methods for Interpreting and Understanding Deep Neural Networks [pdf](https://arxiv.org/pdf/1706.07979.pdf)
-* The Mythos of Model Interpretability [pdf](https://arxiv.org/abs/1606.03490)
-* Towards A Rigorous Science of Interpretable Machine Learning [pdf](https://arxiv.org/pdf/1702.08608.pdf)
-* Visualizations of Deep Neural Networks in Computer Vision: A Survey (Seifert et al. 2017) [pdf](https://link.springer.com/chapter/10.1007/978-3-319-54024-5_6)
-* How convolutional neural network see the world - A survey of convolutional neural network visualization methods (Qin et al. 2018) [pdf](https://arxiv.org/abs/1804.11191)
-* A brief survey of visualization methods for deep learning models from the perspective of Explainable AI (Chalkiadakis 2018) [pdf](https://www.macs.hw.ac.uk/~ic14/IoannisChalkiadakis_RRR.pdf)
+* Methods for Interpreting and Understanding Deep Neural Networks. _Montavon et al. 2017_ [pdf](https://arxiv.org/pdf/1706.07979.pdf)
+* The Mythos of Model Interpretability. Lipton 2016 [pdf](https://arxiv.org/abs/1606.03490)
+* Towards A Rigorous Science of Interpretable Machine Learning _Doshi-Velez & Kim. 2017_ [pdf](https://arxiv.org/pdf/1702.08608.pdf)
+* Visualizations of Deep Neural Networks in Computer Vision: A Survey. _Seifert et al. 2017_ [pdf](https://link.springer.com/chapter/10.1007/978-3-319-54024-5_6)
+* How convolutional neural network see the world - A survey of convolutional neural network visualization methods. _Qin et al. 2018_ [pdf](https://arxiv.org/abs/1804.11191)
+* A brief survey of visualization methods for deep learning models from the perspective of Explainable AI. _Chalkiadakis 2018_ [pdf](https://www.macs.hw.ac.uk/~ic14/IoannisChalkiadakis_RRR.pdf)
 
 # Visualizing Preferred Stimuli
 ## Activation Maximization
