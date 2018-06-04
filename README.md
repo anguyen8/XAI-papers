@@ -4,10 +4,10 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 ---------------------------------------
 
-## GUI tools
+# GUI tools
 * Deep Visualization Toolbox. _Yosinski et al. 2015_ [code](https://github.com/yosinski/deep-visualization-toolbox) | [pdf](http://yosinski.com/deepvis)
 
-## Surveys
+# Surveys
 * Methods for Interpreting and Understanding Deep Neural Networks [pdf](https://arxiv.org/pdf/1706.07979.pdf)
 * The Mythos of Model Interpretability [pdf](https://arxiv.org/abs/1606.03490)
 * Towards A Rigorous Science of Interpretable Machine Learning [pdf](https://arxiv.org/pdf/1702.08608.pdf)
@@ -15,12 +15,19 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 * How convolutional neural network see the world - A survey of convolutional neural network visualization methods (Qin et al. 2018) [pdf](https://arxiv.org/abs/1804.11191)
 * A brief survey of visualization methods for deep learning models from the perspective of Explainable AI (Chalkiadakis 2018) [pdf](https://www.macs.hw.ac.uk/~ic14/IoannisChalkiadakis_RRR.pdf)
 
+# Feature Visualization
 ## Activation Maximization
 * Visualizing higher-layer features of a deep network. _Erhan et al. 2009_ [pdf](https://www.researchgate.net/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network)
 * Synthesizing the preferred inputs for neurons in neural networks via deep generator networks. _Nguyen et al. 2016_ [code](https://github.com/Evolving-AI-Lab/synthesizing) | [pdf](anhnguyen.me/project/synthesizing)
 * Plug and Play Generative Networks. _Nguyen et al. 2017_ [pdf](anhnguyen.me/project/ppgn/) | [code](https://github.com/Evolving-AI-Lab/ppgn)
+* Feature Visualization. _Olah et al. 2017_ [url](https://distill.pub/2017/feature-visualization)
 
-## Heatmap / Attribution
+## Segmentation Masks
+* Object Detectors Emerge in Deep Scene CNNs. Zhou et al. 2015 [pdf](https://arxiv.org/abs/1412.6856)
+* Network Dissection: Quantifying Interpretability of Deep Visual Representations. Bau et al. 2017 [url](http://netdissect.csail.mit.edu/) | [pdf](http://netdissect.csail.mit.edu/final-network-dissection.pdf)
+* Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks. Fong & Vedaldi 2018 [pdf](https://arxiv.org/abs/1801.03454)
+
+## Heatmaps
 * Learning how to explain neural networks: PatternNet and PatternAttribution [pdf](https://arxiv.org/abs/1705.05598)
 * A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations [pdf](https://arxiv.org/abs/1805.07039)
 * A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks [pdf](https://arxiv.org/pdf/1606.07757.pdf)
