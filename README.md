@@ -33,7 +33,7 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 * Learning how to explain neural networks: PatternNet and PatternAttribution [pdf](https://arxiv.org/abs/1705.05598)
 * A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations [pdf](https://arxiv.org/abs/1805.07039)
 * A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks [pdf](https://arxiv.org/pdf/1606.07757.pdf)
-* How Important Is a Neuron? Dhamdhere et al. 2018 [pdf](https://arxiv.org/pdf/1805.12233.pdf)
+* How Important Is a Neuron? _Dhamdhere et al._ 2018 [pdf](https://arxiv.org/pdf/1805.12233.pdf)
 
 ## Layer-wise Backpropagation
 * Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation [pdf](https://arxiv.org/abs/1712.08268)
