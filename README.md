@@ -29,10 +29,11 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 * Network Dissection: Quantifying Interpretability of Deep Visual Representations. Bau et al. 2017 [url](http://netdissect.csail.mit.edu/) | [pdf](http://netdissect.csail.mit.edu/final-network-dissection.pdf)
 * Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks. Fong & Vedaldi 2018 [pdf](https://arxiv.org/abs/1801.03454)
 
-# Heatmaps
+# Heatmaps / Attribution
 * Learning how to explain neural networks: PatternNet and PatternAttribution [pdf](https://arxiv.org/abs/1705.05598)
 * A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations [pdf](https://arxiv.org/abs/1805.07039)
 * A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks [pdf](https://arxiv.org/pdf/1606.07757.pdf)
+* How Important Is a Neuron? Dhamdhere et al. 2018 [pdf](https://arxiv.org/pdf/1805.12233.pdf)
 
 ## Layer-wise Backpropagation
 * Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation [pdf](https://arxiv.org/abs/1712.08268)
@@ -50,7 +51,7 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 * Interpreting CNNs via Decision Trees [pdf](https://arxiv.org/abs/1802.00121)
 * Distilling a Neural Network Into a Soft Decision Tree [pdf](https://arxiv.org/abs/1711.09784)
 
-# DNNs that learn to explain
+# Learning to explain
 * Deep Learning for Case-Based Reasoning through Prototypes [pdf](https://arxiv.org/pdf/1710.04806.pdf)
 * Unsupervised Learning of Neural Networks to Explain Neural Networks [pdf](https://arxiv.org/abs/1805.07468)
 
