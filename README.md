@@ -31,7 +31,7 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 # Heatmaps / Attribution
 * Learning how to explain neural networks: PatternNet and PatternAttribution [pdf](https://arxiv.org/abs/1705.05598)
-* A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations [pdf](https://arxiv.org/abs/1805.07039)
+* A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations. _Nie et al. 2018_ [pdf](https://arxiv.org/abs/1805.07039)
 * A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks [pdf](https://arxiv.org/pdf/1606.07757.pdf)
 * How Important Is a Neuron? _Dhamdhere et al._ 2018 [pdf](https://arxiv.org/pdf/1805.12233.pdf)
 
@@ -57,4 +57,4 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 
 # Understanding via Mathematical and Statistical tools
 * Understanding Deep Architectures by Interpretable Visual Summaries [pdf](https://arxiv.org/pdf/1801.09103.pdf)
-* A Peek Into the Hidden Layers of a Convolutional Neural Network Through a Factorization Lens [pdf](https://arxiv.org/abs/1806.02012)
+* A Peek Into the Hidden Layers of a Convolutional Neural Network Through a Factorization Lens. _Saini et al. 2018_ [pdf](https://arxiv.org/abs/1806.02012)
