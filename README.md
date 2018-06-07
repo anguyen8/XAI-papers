@@ -55,6 +55,6 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 * Deep Learning for Case-Based Reasoning through Prototypes [pdf](https://arxiv.org/pdf/1710.04806.pdf)
 * Unsupervised Learning of Neural Networks to Explain Neural Networks [pdf](https://arxiv.org/abs/1805.07468)
 
-# Mathematical tools
+# Understanding via Mathematical and Statistical tools
 * Understanding Deep Architectures by Interpretable Visual Summaries [pdf](https://arxiv.org/pdf/1801.09103.pdf)
 * A Peek Into the Hidden Layers of a Convolutional Neural Network Through a Factorization Lens [pdf](https://arxiv.org/abs/1806.02012)
