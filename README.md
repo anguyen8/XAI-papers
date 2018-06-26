@@ -61,3 +61,6 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 # Understanding via Mathematical and Statistical tools
 * Understanding Deep Architectures by Interpretable Visual Summaries [pdf](https://arxiv.org/pdf/1801.09103.pdf)
 * A Peek Into the Hidden Layers of a Convolutional Neural Network Through a Factorization Lens. _Saini et al. 2018_ [pdf](https://arxiv.org/abs/1806.02012)
+
+# Applications
+* Explainable AI for Designers: A Human-Centered Perspective on Mixed-Initiative Co-Creation [pdf](http://www.antoniosliapis.com/papers/explainable_ai_for_designers.pdf)
