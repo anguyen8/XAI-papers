@@ -7,6 +7,9 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 # GUI tools
 * DeepVis: Deep Visualization Toolbox. _Yosinski et al. 2015_ [code](https://github.com/yosinski/deep-visualization-toolbox) | [pdf](http://yosinski.com/deepvis)
 
+# Demos and code
+* https://github.com/tensorflow/lucid
+
 # Surveys
 * Methods for Interpreting and Understanding Deep Neural Networks. _Montavon et al. 2017_ [pdf](https://arxiv.org/pdf/1706.07979.pdf)
 * The Mythos of Model Interpretability. _Lipton 2016_ [pdf](https://arxiv.org/abs/1606.03490)
