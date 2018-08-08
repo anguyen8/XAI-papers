@@ -26,6 +26,7 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 * DGN-AM: Synthesizing the preferred inputs for neurons in neural networks via deep generator networks. _Nguyen et al. 2016_ [pdf](anhnguyen.me/project/synthesizing) | [code](https://github.com/Evolving-AI-Lab/synthesizing)
 * PPGN: Plug and Play Generative Networks. _Nguyen et al. 2017_ [pdf](anhnguyen.me/project/ppgn/) | [code](https://github.com/Evolving-AI-Lab/ppgn)
 * Feature Visualization. _Olah et al. 2017_ [url](https://distill.pub/2017/feature-visualization)
+* Diverse feature visualizations reveal invariances in early layers of deep neural networks. _Cadena et al. 2018_ [pdf](https://arxiv.org/pdf/1807.10589.pdf)
 
 ## Real images / Segmentation Masks
 * Object Detectors Emerge in Deep Scene CNNs. Zhou et al. 2015 [pdf](https://arxiv.org/abs/1412.6856)
