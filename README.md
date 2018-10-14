@@ -63,6 +63,7 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 # Distilling DNNs into more interpretable models
 * Interpreting CNNs via Decision Trees [pdf](https://arxiv.org/abs/1802.00121)
 * Distilling a Neural Network Into a Soft Decision Tree [pdf](https://arxiv.org/abs/1711.09784)
+* Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation. _Tan et al. 2018_ [pdf](https://arxiv.org/abs/1710.06169)
 
 # Learning to explain
 * Deep Learning for Case-Based Reasoning through Prototypes [pdf](https://arxiv.org/pdf/1710.04806.pdf)
