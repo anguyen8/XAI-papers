@@ -1,6 +1,6 @@
 # Papers on Explainable Artificial Intelligence
 
-This is an on-going attempt to consolidate all interesting efforts in the area of understanding / interpreting / explaining / visualizing machine learning models.
+This is an on-going attempt to consolidate interesting efforts in the area of understanding / interpreting / explaining / visualizing machine learning models.
 
 ---------------------------------------
 
@@ -69,6 +69,10 @@ This is an on-going attempt to consolidate all interesting efforts in the area o
 # Learning to explain
 * Deep Learning for Case-Based Reasoning through Prototypes [pdf](https://arxiv.org/pdf/1710.04806.pdf)
 * Unsupervised Learning of Neural Networks to Explain Neural Networks [pdf](https://arxiv.org/abs/1805.07468)
+
+# Machine rationalization
+* Automated Rationale Generation: A Technique for Explainable AI and its Effects on Human Perceptions [pdf](https://arxiv.org/abs/1901.03729)
+* Rationalization: A Neural Machine Translation Approach to Generating Natural Language Explanations [pdf](https://arxiv.org/pdf/1702.07826.pdf)
 
 # Understanding via Mathematical and Statistical tools
 * Understanding Deep Architectures by Interpretable Visual Summaries [pdf](https://arxiv.org/pdf/1801.09103.pdf)
