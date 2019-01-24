@@ -7,8 +7,9 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 # GUI tools
 * DeepVis: Deep Visualization Toolbox. _Yosinski et al. 2015_ [code](https://github.com/yosinski/deep-visualization-toolbox) | [pdf](http://yosinski.com/deepvis)
 
-# Demos and code
+# Open-source code
 * https://github.com/tensorflow/lucid
+* https://github.com/utkuozbulak/pytorch-cnn-visualizations
 
 # Surveys
 * Methods for Interpreting and Understanding Deep Neural Networks. _Montavon et al. 2017_ [pdf](https://arxiv.org/pdf/1706.07979.pdf)
