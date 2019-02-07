@@ -79,6 +79,8 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Rationalization: A Neural Machine Translation Approach to Generating Natural Language Explanations [pdf](https://arxiv.org/pdf/1702.07826.pdf)
 
 # Understanding via Mathematical and Statistical tools
+* TCAV: Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors. _Kim et al. 2018_ [pdf](https://arxiv.org/abs/1711.11279) | [code](https://github.com/tensorflow/tcav)
+* SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability. _Raghu et al. 2017_ [pdf](https://arxiv.org/abs/1706.05806) | [code](https://github.com/google/svcca)
 * Understanding Deep Architectures by Interpretable Visual Summaries [pdf](https://arxiv.org/pdf/1801.09103.pdf)
 * A Peek Into the Hidden Layers of a Convolutional Neural Network Through a Factorization Lens. _Saini et al. 2018_ [pdf](https://arxiv.org/abs/1806.02012)
 * How Important Is a Neuron? _Dhamdhere et al._ 2018 [pdf](https://arxiv.org/pdf/1805.12233.pdf)
