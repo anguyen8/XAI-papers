@@ -6,6 +6,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 # GUI tools
 * DeepVis: Deep Visualization Toolbox. _Yosinski et al. 2015_ [code](https://github.com/yosinski/deep-visualization-toolbox) | [pdf](http://yosinski.com/deepvis)
+* SWAP: Generate adversarial poses of objects in a 3D space. _Alcorn et al. 2018_ [code](https://github.com/airalcorn2/strike-with-a-pose) | [pdf](https://arxiv.org/abs/1811.11553)
 
 # Interpretability framework
 * https://github.com/utkuozbulak/pytorch-cnn-visualizations (activation maximization)
