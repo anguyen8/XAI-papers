@@ -92,6 +92,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * ICADx: Interpretable computer aided diagnosis of breast masses. _Kim et al. 2018_ [pdf](https://arxiv.org/abs/1805.08960)
 
 # Natural Language Processing
+* Visualizing and Understanding Recurrent Networks. _Kaparthey et al. 2015_ [pdf](https://arxiv.org/abs/1506.02078)
 * NLIZE: A Perturbation-Driven Visual Interrogation Tool for Analyzing and Interpreting Natural Language Inference Models. _Liu et al. 2018_ [pdf](http://www.sci.utah.edu/~shusenl/publications/paper_entailVis.pdf)
 * Neural Network Interpretation via Fine Grained Textual Summarization. _Guo et al. 2018_ [pdf](https://arxiv.org/pdf/1805.08969.pdf)
 * LS-Tree: Model Interpretation When the Data Are Linguistic. _Chen et al. 2019_ [pdf](https://arxiv.org/abs/1902.04187)
