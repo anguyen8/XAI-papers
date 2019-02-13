@@ -94,3 +94,4 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 # Natural Language Processing
 * NLIZE: A Perturbation-Driven Visual Interrogation Tool for Analyzing and Interpreting Natural Language Inference Models. _Liu et al. 2018_ [pdf](http://www.sci.utah.edu/~shusenl/publications/paper_entailVis.pdf)
 * Neural Network Interpretation via Fine Grained Textual Summarization. _Guo et al. 2018_ [pdf](https://arxiv.org/pdf/1805.08969.pdf)
+* LS-Tree: Model Interpretation When the Data Are Linguistic. _Chen et al. 2019_ [pdf](https://arxiv.org/abs/1902.04187)
