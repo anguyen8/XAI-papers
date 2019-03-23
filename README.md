@@ -95,6 +95,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Unsupervised Learning of Neural Networks to Explain Neural Networks [pdf](https://arxiv.org/abs/1805.07468)
 * Automated Rationale Generation: A Technique for Explainable AI and its Effects on Human Perceptions [pdf](https://arxiv.org/abs/1901.03729)
   * Rationalization: A Neural Machine Translation Approach to Generating Natural Language Explanations [pdf](https://arxiv.org/pdf/1702.07826.pdf)
+* Towards robust interpretability with self-explaining neural networks. _Melis and Jaakola 2018._ [pdf](http://people.csail.mit.edu/tommi/papers/SENN_paper.pdf)  
 
 
 # C. Unclassified
