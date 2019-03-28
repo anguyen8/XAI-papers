@@ -9,9 +9,10 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * SWAP: Generate adversarial poses of objects in a 3D space. _Alcorn et al. 2018_ [code](https://github.com/airalcorn2/strike-with-a-pose) | [pdf](https://arxiv.org/abs/1811.11553)
 
 # Libraries
-* https://github.com/utkuozbulak/pytorch-cnn-visualizations (activation maximization)
-* https://github.com/albermax/innvestigate (heatmaps)
-* https://github.com/tensorflow/lucid (activation maximization, heatmaps)
+* [CNN visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) (activation maximization, PyTorch)
+* [iNNvestigate](https://github.com/albermax/innvestigate) (heatmaps, Keras)
+* [DeepExplain](https://github.com/marcoancona/DeepExplain) (heatmaps, Keras)
+* [Lucid](https://github.com/tensorflow/lucid) (activation maximization, heatmaps, Tensorflow)
 
 # Surveys
 * Methods for Interpreting and Understanding Deep Neural Networks. _Montavon et al. 2017_ [pdf](https://arxiv.org/pdf/1706.07979.pdf)
