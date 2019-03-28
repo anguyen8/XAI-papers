@@ -100,7 +100,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
   * Rationalization: A Neural Machine Translation Approach to Generating Natural Language Explanations [pdf](https://arxiv.org/pdf/1702.07826.pdf)
 * Towards robust interpretability with self-explaining neural networks. _Alvarez-Melis and Jaakola 2018_ [pdf](http://people.csail.mit.edu/tommi/papers/SENN_paper.pdf)  
 
-## C. Counterfactual explanations (what would have happen)
+# C. Counterfactual explanations (what would have happen)
 * Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections. _Zhang et al. 2018_ [pdf](http://papers.nips.cc/paper/7736-interpreting-neural-network-judgments-via-minimal-stable-and-symbolic-corrections.pdf)
 
 # D. Unclassified
