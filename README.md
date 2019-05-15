@@ -76,8 +76,9 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 # B. Decision explanations
 
-## B1. Heatmaps / Attribution
-#### White-box
+## B1. Heatmaps
+#### White-box / Gradient-based
+
 * A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations. _Nie et al. 2018_ [pdf](https://arxiv.org/abs/1805.07039)
 * A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks [pdf](https://arxiv.org/pdf/1606.07757.pdf)
 * CAM: Learning Deep Features for Discriminative Localization. _Zhou et al. 2016_ [code](https://github.com/metalbubble/CAM) | [web](http://cnnlocalization.csail.mit.edu/)
@@ -86,14 +87,18 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * LRP: Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation [pdf](https://arxiv.org/abs/1712.08268)
   * DTD: Explaining NonLinear Classification Decisions With Deep Tayor Decomposition [pdf](https://arxiv.org/abs/1512.02479)
 * Regional Multi-scale Approach for Visually Pleasing Explanations of Deep Neural Networks. _Seo et al. 2018_ [pdf](https://arxiv.org/pdf/1807.11720.pdf)
+* Interpretable Explanations of Black Boxes by Meaningful Perturbation. _Fong et al. 2017_ [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fong_Interpretable_Explanations_of_ICCV_2017_paper.pdf)
 * Integrated Gradients: Axiomatic Attribution for Deep Networks. _Sundararajan et al. 2018_ [pdf](http://proceedings.mlr.press/v70/sundararajan17a/sundararajan17a.pdf) | [code](https://github.com/ankurtaly/Integrated-Gradients)
-* The (Un)reliability of saliency methods. _Kindermans et al. 2018_ [pdf](https://openreview.net/forum?id=r1Oen--RW)
-* Sanity Checks for Saliency Maps. _Adebayo et al. 2018_ [pdf](http://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf)
+* I-GOR: Visualizing Deep Networks by Optimizing with Integrated Gradients. _Qi et al. 2019_ [pdf](https://arxiv.org/pdf/1905.00954.pdf)
 * Visual explanation by interpretation: Improving visual feedback capabilities of deep neural networks. _Oramas et al. 2019_ [pdf](https://arxiv.org/pdf/1712.06302.pdf)
 
-#### Black-box
+#### Black-box / Perturbation-based
 * RISE: Randomized Input Sampling for Explanation of Black-box Models. _Petsiuk et al. 2018_ [pdf](https://arxiv.org/pdf/1806.07421.pdf)
 * LIME: Why should i trust you?: Explaining the predictions of any classifier. _Ribeiro et al. 2016_ [pdf](https://arxiv.org/pdf/1602.04938.pdf) | [blog](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
+
+#### Evaluating heatmaps
+* The (Un)reliability of saliency methods. _Kindermans et al. 2018_ [pdf](https://openreview.net/forum?id=r1Oen--RW)
+* Sanity Checks for Saliency Maps. _Adebayo et al. 2018_ [pdf](http://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf)
 
 ## B2. Learning to explain
 * Learning how to explain neural networks: PatternNet and PatternAttribution [pdf](https://arxiv.org/abs/1705.05598)
