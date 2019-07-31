@@ -38,12 +38,14 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 #### Synthesizing images / Activation Maximization
 * AM: Visualizing higher-layer features of a deep network. _Erhan et al. 2009_ [pdf](https://www.researchgate.net/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network)
+* Deep inside convolutional networks: Visualising image classification models and saliency maps. _Simonyan et al. 2013_ [pdf](https://arxiv.org/pdf/1312.6034.pdf)
 * DeepVis: Understanding Neural Networks through Deep Visualization. _Yosinski et al. 2015_ [pdf](http://yosinski.com/media/papers/Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf) | [url](http://yosinski.com/deepvis)
 * MFV: Multifaceted Feature Visualization: Uncovering the different types of features learned by each neuron in deep neural networks. _Nguyen et al. 2016_ [pdf](http://www.evolvingai.org/files/mfv_icml_workshop_16.pdf) | [code](https://github.com/Evolving-AI-Lab/mfv)
 * DGN-AM: Synthesizing the preferred inputs for neurons in neural networks via deep generator networks. _Nguyen et al. 2016_ [pdf](anhnguyen.me/project/synthesizing) | [code](https://github.com/Evolving-AI-Lab/synthesizing)
 * PPGN: Plug and Play Generative Networks. _Nguyen et al. 2017_ [pdf](anhnguyen.me/project/ppgn/) | [code](https://github.com/Evolving-AI-Lab/ppgn)
 * Feature Visualization. _Olah et al. 2017_ [url](https://distill.pub/2017/feature-visualization)
 * Diverse feature visualizations reveal invariances in early layers of deep neural networks. _Cadena et al. 2018_ [pdf](https://arxiv.org/pdf/1807.10589.pdf)
+* Computer Vision with a Single (Robust) Classifier. _Santurkar et al. 2019_ [pdf](https://arxiv.org/abs/1906.09453) | [blog](http://gradsci.org/robust_apps) | [code](https://github.com/MadryLab/robustness_applications)
 
 #### Real images / Segmentation Masks
 * Visualizing and Understanding Recurrent Networks. _Kaparthey et al. 2015_ [pdf](https://arxiv.org/abs/1506.02078)
