@@ -103,6 +103,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * CAM: Learning Deep Features for Discriminative Localization. _Zhou et al. 2016_ [code](https://github.com/metalbubble/CAM) | [web](http://cnnlocalization.csail.mit.edu/)
 * Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization. _Selvaraju et al. 2017_ [pdf](https://arxiv.org/abs/1610.02391)
 * Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks. _Chattopadhyay et al. 2017_ [pdf](https://arxiv.org/abs/1710.11063) | [code](https://github.com/adityac94/Grad_CAM_plus_plus)
+* Smooth Grad-CAM++: An Enhanced Inference Level Visualization Technique for Deep Convolutional Neural Network Models. _Omeiza et al. 2019_ [pdf](https://arxiv.org/pdf/1908.01224.pdf)
 
 #### Learning the heatmap
 * Interpretable Explanations of Black Boxes by Meaningful Perturbation. _Fong et al. 2017_ [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fong_Interpretable_Explanations_of_ICCV_2017_paper.pdf)
