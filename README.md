@@ -119,6 +119,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * PDA: Visualizing deep neural network decisions: Prediction difference analysis. _Zintgraf et al. 2017_ [pdf](https://arxiv.org/pdf/1702.04595.pdf)
 * RISE: Randomized Input Sampling for Explanation of Black-box Models. _Petsiuk et al. 2018_ [pdf](https://arxiv.org/pdf/1806.07421.pdf)
 * LIME: Why should i trust you?: Explaining the predictions of any classifier. _Ribeiro et al. 2016_ [pdf](https://arxiv.org/pdf/1602.04938.pdf) | [blog](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
+* SHAP: A Unified Approach to Interpreting Model Predictions. _Lundberg et al. 2017_ [pdf](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) | [code](https://github.com/slundberg/shap)
 * OSFT: Interpreting Black Box Models via Hypothesis Testing. _Burns et al. 2019_ [pdf](https://arxiv.org/pdf/1904.00045.pdf)
 
 ### B1.3 Evaluating heatmaps
