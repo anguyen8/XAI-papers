@@ -46,6 +46,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Feature Visualization. _Olah et al. 2017_ [url](https://distill.pub/2017/feature-visualization)
 * Diverse feature visualizations reveal invariances in early layers of deep neural networks. _Cadena et al. 2018_ [pdf](https://arxiv.org/pdf/1807.10589.pdf)
 * Computer Vision with a Single (Robust) Classifier. _Santurkar et al. 2019_ [pdf](https://arxiv.org/abs/1906.09453) | [blog](http://gradsci.org/robust_apps) | [code](https://github.com/MadryLab/robustness_applications)
+* BigGAN-AM: Improving sample diversity of a pre-trained, class-conditional GAN by changing its class embeddings. _Li et al. 2019_ [pdf](https://arxiv.org/abs/1910.04760)
 
 #### Real images / Segmentation Masks
 * Visualizing and Understanding Recurrent Networks. _Kaparthey et al. 2015_ [pdf](https://arxiv.org/abs/1506.02078)
@@ -106,19 +107,21 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Smooth Grad-CAM++: An Enhanced Inference Level Visualization Technique for Deep Convolutional Neural Network Models. _Omeiza et al. 2019_ [pdf](https://arxiv.org/pdf/1908.01224.pdf)
 
 #### Learning the heatmap
-* Interpretable Explanations of Black Boxes by Meaningful Perturbation. _Fong et al. 2017_ [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fong_Interpretable_Explanations_of_ICCV_2017_paper.pdf)
+* MP: Interpretable Explanations of Black Boxes by Meaningful Perturbation. _Fong et al. 2017_ [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fong_Interpretable_Explanations_of_ICCV_2017_paper.pdf)
  * FIDO: Explaining image classifiers by counterfactual generation. _Chang et al. 2019_ [pdf](https://arxiv.org/pdf/1807.08024.pdf)
  * FG-Vis: Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks. _Wagner et al. 2019_ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+  * MP-G: Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal et al. 2019_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
  
 #### Others 
 * Visual explanation by interpretation: Improving visual feedback capabilities of deep neural networks. _Oramas et al. 2019_ [pdf](https://arxiv.org/pdf/1712.06302.pdf)
 * Regional Multi-scale Approach for Visually Pleasing Explanations of Deep Neural Networks. _Seo et al. 2018_ [pdf](https://arxiv.org/pdf/1807.11720.pdf)b
 
 ### B1.2 Black-box / Perturbation-based
-* Occlusion: Visualizing and understanding convolutional networks. _Zeiler et al. 2014_ [pdf](https://arxiv.org/pdf/1311.2901.pdf)
+* Sliding-Patch: Visualizing and understanding convolutional networks. _Zeiler et al. 2014_ [pdf](https://arxiv.org/pdf/1311.2901.pdf)
 * PDA: Visualizing deep neural network decisions: Prediction difference analysis. _Zintgraf et al. 2017_ [pdf](https://arxiv.org/pdf/1702.04595.pdf)
 * RISE: Randomized Input Sampling for Explanation of Black-box Models. _Petsiuk et al. 2018_ [pdf](https://arxiv.org/pdf/1806.07421.pdf)
 * LIME: Why should i trust you?: Explaining the predictions of any classifier. _Ribeiro et al. 2016_ [pdf](https://arxiv.org/pdf/1602.04938.pdf) | [blog](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
+  * LIME-G: Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal et al. 2019_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
 * SHAP: A Unified Approach to Interpreting Model Predictions. _Lundberg et al. 2017_ [pdf](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) | [code](https://github.com/slundberg/shap)
 * OSFT: Interpreting Black Box Models via Hypothesis Testing. _Burns et al. 2019_ [pdf](https://arxiv.org/pdf/1904.00045.pdf)
 
