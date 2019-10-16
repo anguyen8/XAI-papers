@@ -144,6 +144,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 # C. Counterfactual explanations
 * Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections. _Zhang et al. 2018_ [pdf](http://papers.nips.cc/paper/7736-interpreting-neural-network-judgments-via-minimal-stable-and-symbolic-corrections.pdf)
 * Counterfactual Visual Explanations. _Goyal et al. 2019_ [pdf](https://arxiv.org/pdf/1904.07451.pdf)
+* Generative Counterfactual Introspection for Explainable Deep Learning. _Liu et al. 2019_ [pdf](https://arxiv.org/abs/1907.03077)
 
 # D. Others
 * Yang, S. C. H., & Shafto, P. Explainable Artificial Intelligence via Bayesian Teaching. NIPS 2017 [pdf](http://shaftolab.com/assets/papers/yangShafto_NIPS_2017_machine_teaching.pdf)
