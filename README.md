@@ -83,7 +83,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 # B. Decision explanations
 
-## B1. Heatmaps
+## B1. Attribution maps
 ### B1.1 White-box / Gradient-based
 
 * A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks [pdf](https://arxiv.org/pdf/1606.07757.pdf)
@@ -108,9 +108,10 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 #### Learning the heatmap
 * MP: Interpretable Explanations of Black Boxes by Meaningful Perturbation. _Fong et al. 2017_ [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fong_Interpretable_Explanations_of_ICCV_2017_paper.pdf)
- * FIDO: Explaining image classifiers by counterfactual generation. _Chang et al. 2019_ [pdf](https://arxiv.org/pdf/1807.08024.pdf)
- * FG-Vis: Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks. _Wagner et al. 2019_ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
   * MP-G: Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal et al. 2019_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
+* FIDO: Explaining image classifiers by counterfactual generation. _Chang et al. 2019_ [pdf](https://arxiv.org/pdf/1807.08024.pdf)
+* FG-Vis: Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks. _Wagner et al. 2019_ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+
  
 #### Others 
 * Visual explanation by interpretation: Improving visual feedback capabilities of deep neural networks. _Oramas et al. 2019_ [pdf](https://arxiv.org/pdf/1712.06302.pdf)
