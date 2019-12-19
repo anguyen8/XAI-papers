@@ -23,6 +23,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * A Survey Of Methods For Explaining Black Box Models. _Guidotti et al. 2018_ [pdf](https://arxiv.org/pdf/1802.01933.pdf)
 * Understanding Neural Networks via Feature Visualization: A survey. _Nguyen et al. 2019_ [pdf](https://arxiv.org/pdf/1904.08939.pdf)
 * Explaining Explanations: An Overview of Interpretability of Machine Learning. _Gilpin et al. 2019_ [pdf](https://arxiv.org/pdf/1806.00069.pdf)
+* DARPA updates on the XAI program [pdf](https://www.darpa.mil/attachments/XAIProgramUpdate.pdf)
 
 #### Definitions of Interpretability
 * The Mythos of Model Interpretability. _Lipton 2016_ [pdf](https://arxiv.org/abs/1606.03490)
