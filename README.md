@@ -5,8 +5,8 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 ---------------------------------------
 
 # GUI tools
-* DeepVis: Deep Visualization Toolbox. _Yosinski et al. 2015_ [code](https://github.com/yosinski/deep-visualization-toolbox) | [pdf](http://yosinski.com/deepvis)
-* SWAP: Generate adversarial poses of objects in a 3D space. _Alcorn et al. 2018_ [code](https://github.com/airalcorn2/strike-with-a-pose) | [pdf](https://arxiv.org/abs/1811.11553)
+* DeepVis: Deep Visualization Toolbox. _Yosinski et al. ICML 2015_ [code](https://github.com/yosinski/deep-visualization-toolbox) | [pdf](http://yosinski.com/deepvis)
+* SWAP: Generate adversarial poses of objects in a 3D space. _Alcorn et al. CVPR 2019_ [code](https://github.com/airalcorn2/strike-with-a-pose) | [pdf](https://arxiv.org/abs/1811.11553)
 
 # Libraries
 * [CNN visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) (activation maximization, PyTorch)
@@ -40,24 +40,29 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 #### Synthesizing images / Activation Maximization
 * AM: Visualizing higher-layer features of a deep network. _Erhan et al. 2009_ [pdf](https://www.researchgate.net/publication/265022827_Visualizing_Higher-Layer_Features_of_a_Deep_Network)
 * Deep inside convolutional networks: Visualising image classification models and saliency maps. _Simonyan et al. 2013_ [pdf](https://arxiv.org/pdf/1312.6034.pdf)
-* DeepVis: Understanding Neural Networks through Deep Visualization. _Yosinski et al. 2015_ [pdf](http://yosinski.com/media/papers/Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf) | [url](http://yosinski.com/deepvis)
-* MFV: Multifaceted Feature Visualization: Uncovering the different types of features learned by each neuron in deep neural networks. _Nguyen et al. 2016_ [pdf](http://www.evolvingai.org/files/mfv_icml_workshop_16.pdf) | [code](https://github.com/Evolving-AI-Lab/mfv)
-* DGN-AM: Synthesizing the preferred inputs for neurons in neural networks via deep generator networks. _Nguyen et al. 2016_ [pdf](anhnguyen.me/project/synthesizing) | [code](https://github.com/Evolving-AI-Lab/synthesizing)
-* PPGN: Plug and Play Generative Networks. _Nguyen et al. 2017_ [pdf](anhnguyen.me/project/ppgn/) | [code](https://github.com/Evolving-AI-Lab/ppgn)
+* DeepVis: Understanding Neural Networks through Deep Visualization. _Yosinski et al. ICML workshop 2015_ [pdf](http://yosinski.com/media/papers/Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf) | [url](http://yosinski.com/deepvis)
+* MFV: Multifaceted Feature Visualization: Uncovering the different types of features learned by each neuron in deep neural networks. _Nguyen et al. ICML workshop 2016_ [pdf](http://www.evolvingai.org/files/mfv_icml_workshop_16.pdf) | [code](https://github.com/Evolving-AI-Lab/mfv)
+* DGN-AM: Synthesizing the preferred inputs for neurons in neural networks via deep generator networks. _Nguyen et al. NIPS 2016_ [pdf](anhnguyen.me/project/synthesizing) | [code](https://github.com/Evolving-AI-Lab/synthesizing)
+* PPGN: Plug and Play Generative Networks. _Nguyen et al. CVPR 2017_ [pdf](anhnguyen.me/project/ppgn/) | [code](https://github.com/Evolving-AI-Lab/ppgn)
 * Feature Visualization. _Olah et al. 2017_ [url](https://distill.pub/2017/feature-visualization)
 * Diverse feature visualizations reveal invariances in early layers of deep neural networks. _Cadena et al. 2018_ [pdf](https://arxiv.org/pdf/1807.10589.pdf)
-* Computer Vision with a Single (Robust) Classifier. _Santurkar et al. 2019_ [pdf](https://arxiv.org/abs/1906.09453) | [blog](http://gradsci.org/robust_apps) | [code](https://github.com/MadryLab/robustness_applications)
+* Computer Vision with a Single (Robust) Classifier. _Santurkar et al. NeurIPS 2019_ [pdf](https://arxiv.org/abs/1906.09453) | [blog](http://gradsci.org/robust_apps) | [code](https://github.com/MadryLab/robustness_applications)
 * BigGAN-AM: Improving sample diversity of a pre-trained, class-conditional GAN by changing its class embeddings. _Li et al. 2019_ [pdf](https://arxiv.org/abs/1910.04760)
 
 #### Real images / Segmentation Masks
-* Visualizing and Understanding Recurrent Networks. _Kaparthey et al. 2015_ [pdf](https://arxiv.org/abs/1506.02078)
-* Object Detectors Emerge in Deep Scene CNNs. Zhou et al. 2015 [pdf](https://arxiv.org/abs/1412.6856)
-* Understanding Deep Architectures by Interpretable Visual Summaries [pdf](https://arxiv.org/pdf/1801.09103.pdf)
+* Visualizing and Understanding Recurrent Networks. _Kaparthey et al. ICLR 2015_ [pdf](https://arxiv.org/abs/1506.02078)
+* Object Detectors Emerge in Deep Scene CNNs. _Zhou et al. ICLR 2015_ [pdf](https://arxiv.org/abs/1412.6856)
+* Understanding Deep Architectures by Interpretable Visual Summaries. _Godi et al. BMVC 2019_ [pdf](https://arxiv.org/pdf/1801.09103.pdf)
 
 ## A2. Inverting Neural Networks
-* Understanding Deep Image Representations by Inverting Them [pdf](https://arxiv.org/abs/1412.0035)
-* Inverting Visual Representations with Convolutional Networks [pdf](https://arxiv.org/abs/1506.02753)
-* Neural network inversion beyond gradient descent [pdf](http://opt-ml.org/papers/OPT2017_paper_38.pdf)
+
+### A2.1 Inverting Classifiers
+* Understanding Deep Image Representations by Inverting Them. _Mahendran & Vedaldi. CVPR 2015_ [pdf](https://arxiv.org/abs/1412.0035)
+* Inverting Visual Representations with Convolutional Networks. _Dosovitskiy & Brox. CVPR 2016_ [pdf](https://arxiv.org/abs/1506.02753)
+* Neural network inversion beyond gradient descent. _Wong & Kolter. NIPS workshop 2017_ [pdf](http://opt-ml.org/papers/OPT2017_paper_38.pdf)
+
+### A2.2 Inverting Generators
+* Image Processing Using Multi-Code GAN Prior. _Gu et al. 2019_ [pdf](https://arxiv.org/abs/1912.07116)
 
 ## A3. Distilling DNNs into more interpretable models
 * Interpreting CNNs via Decision Trees [pdf](https://arxiv.org/abs/1802.00121)
@@ -70,7 +75,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
   * Automating Interpretability: Discovering and Testing Visual Concepts Learned by Neural Networks. _Ghorbani et al. 2019_ [pdf](https://arxiv.org/abs/1902.03129)
 * SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability. _Raghu et al. 2017_ [pdf](https://arxiv.org/abs/1706.05806) | [code](https://github.com/google/svcca)
 * A Peek Into the Hidden Layers of a Convolutional Neural Network Through a Factorization Lens. _Saini et al. 2018_ [pdf](https://arxiv.org/abs/1806.02012)
-* Network Dissection: Quantifying Interpretability of Deep Visual Representations. _Bau et al. 2017_ [url](http://netdissect.csail.mit.edu/) | [pdf](http://netdissect.csail.mit.edu/final-network-dissection.pdf)
+* Network Dissection: Quantifying Interpretability of Deep Visual Representations. _Bau et al. CVPR 2017_ [url](http://netdissect.csail.mit.edu/) | [pdf](http://netdissect.csail.mit.edu/final-network-dissection.pdf)
   * GAN Dissection: Visualizing and Understanding Generative Adversarial Networks. _Bau et al. 2018_ [pdf](https://arxiv.org/abs/1811.10597)
   * Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks. _Fong & Vedaldi 2018_ [pdf](https://arxiv.org/abs/1801.03454)
 
@@ -113,11 +118,11 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
   * MP-G: Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal et al. 2019_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
   * Understanding Deep Networks via Extremal Perturbations and Smooth Masks. _Fong et al. 2019_ [pdf](https://arxiv.org/abs/1910.08485)
 * FIDO: Explaining image classifiers by counterfactual generation. _Chang et al. 2019_ [pdf](https://arxiv.org/pdf/1807.08024.pdf)
-* FG-Vis: Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks. _Wagner et al. 2019_ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+* FG-Vis: Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks. _Wagner et al. CVPR 2019_ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
 
 #### Attributions of network biases
-* Full-Gradient Representation for Neural Network Visualization. _Srinivas et al. 2019_ [pdf](https://arxiv.org/pdf/1905.00780.pdf)
-* Bias also matters: Bias attribution for deep neural network explanation. _Wang et al. 2019_ [pdf](http://proceedings.mlr.press/v97/wang19p/wang19p.pdf)
+* Full-Gradient Representation for Neural Network Visualization. _Srinivas et al. NeurIPS 2019_ [pdf](https://arxiv.org/pdf/1905.00780.pdf)
+* Bias also matters: Bias attribution for deep neural network explanation. _Wang et al. ICML 2019_ [pdf](http://proceedings.mlr.press/v97/wang19p/wang19p.pdf)
  
 #### Others 
 * Visual explanation by interpretation: Improving visual feedback capabilities of deep neural networks. _Oramas et al. 2019_ [pdf](https://arxiv.org/pdf/1712.06302.pdf)
@@ -138,9 +143,18 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations. _Nie et al. 2018_ [pdf](https://arxiv.org/abs/1805.07039)
 * BIM: Towards Quantitative Evaluation of Interpretability Methods with Ground Truth. _Yang et al. 2019_ [pdf](https://arxiv.org/abs/1907.09701)
 * On the (In)fidelity and Sensitivity for Explanations. _Yeh et al. 2019_ [pdf](https://arxiv.org/pdf/1901.09392.pdf)
-* SAM: The Sensitivity of Attribution Methods to Hyperparameters. _Bansal, Agarwal, Nguyen 2020_ [pdf](http://anhnguyen.me/project/sam/) | [code](https://github.com/anguyen8/sam)
+* SAM: The Sensitivity of Attribution Methods to Hyperparameters. _Bansal, Agarwal, Nguyen. CVPR 2020_ [pdf](http://anhnguyen.me/project/sam/) | [code](https://github.com/anguyen8/sam)
+
 
 ## B2. Learning to explain
+
+### B2.1 Regularizing attribution maps
+* Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations. _Ross et al. IJCAI 2017_ [pdf](https://www.ijcai.org/Proceedings/2017/0371.pdf)
+* Learning Explainable Models Using Attribution Priors. _Erion et al. 2019_ [pdf](https://arxiv.org/abs/1906.10670)
+* Interpretations are useful: penalizing explanations to align neural networks with prior knowledge. _Rieger et al. 2019_ [pdf](https://arxiv.org/pdf/1909.13584.pdf)
+
+
+### B2.2 Others
 * Learning how to explain neural networks: PatternNet and PatternAttribution [pdf](https://arxiv.org/abs/1705.05598)
 * Deep Learning for Case-Based Reasoning through Prototypes [pdf](https://arxiv.org/pdf/1710.04806.pdf)
 * Unsupervised Learning of Neural Networks to Explain Neural Networks [pdf](https://arxiv.org/abs/1805.07468)
