@@ -93,6 +93,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Deep inside convolutional networks: Visualising image classification models and saliency maps. _Simonyan et al. 2013_ [pdf](https://arxiv.org/pdf/1312.6034.pdf)
 * Deconvnet: Visualizing and understanding convolutional networks. _Zeiler et al. 2014_ [pdf](https://arxiv.org/pdf/1311.2901.pdf)
 * Guided-backprop: Striving for simplicity: The all convolutional net. _Springenberg et al. 2015_ [pdf](http://arxiv.org/pdf/1412.6806.pdf)
+* SmoothGrad: removing noise by adding noise. _Smilkov et al. 2017_ [pdf](https://arxiv.org/abs/1706.03825)
 
 #### Input x Gradient
 * DeepLIFT: Learning important features through propagating activation differences. _Shrikumar et al. 2017_ [pdf](https://arxiv.org/pdf/1605.01713.pdf)
@@ -114,6 +115,9 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * FIDO: Explaining image classifiers by counterfactual generation. _Chang et al. 2019_ [pdf](https://arxiv.org/pdf/1807.08024.pdf)
 * FG-Vis: Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks. _Wagner et al. 2019_ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
 
+#### Attributions of network biases
+* Full-Gradient Representation for Neural Network Visualization. _Srinivas et al. 2019_ [pdf](https://arxiv.org/pdf/1905.00780.pdf)
+* Bias also matters: Bias attribution for deep neural network explanation. _Wang et al. 2019_ [pdf](http://proceedings.mlr.press/v97/wang19p/wang19p.pdf)
  
 #### Others 
 * Visual explanation by interpretation: Improving visual feedback capabilities of deep neural networks. _Oramas et al. 2019_ [pdf](https://arxiv.org/pdf/1712.06302.pdf)
