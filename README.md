@@ -103,7 +103,8 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 #### Input x Gradient
 * DeepLIFT: Learning important features through propagating activation differences. _Shrikumar et al. 2017_ [pdf](https://arxiv.org/pdf/1605.01713.pdf)
 * Integrated Gradients: Axiomatic Attribution for Deep Networks. _Sundararajan et al. 2018_ [pdf](http://proceedings.mlr.press/v70/sundararajan17a/sundararajan17a.pdf) | [code](https://github.com/ankurtaly/Integrated-Gradients)
- * I-GOR: Visualizing Deep Networks by Optimizing with Integrated Gradients. _Qi et al. 2019_ [pdf](https://arxiv.org/pdf/1905.00954.pdf)
+  * Expected Gradients: Learning Explainable Models Using Attribution Priors. _Erion et al. 2019_ [pdf](https://arxiv.org/abs/1906.10670) | [code](https://github.com/suinleelab/attributionpriors)
+  * I-GOR: Visualizing Deep Networks by Optimizing with Integrated Gradients. _Qi et al. 2019_ [pdf](https://arxiv.org/pdf/1905.00954.pdf)
 * LRP: Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation [pdf](https://arxiv.org/abs/1712.08268)
   * DTD: Explaining NonLinear Classification Decisions With Deep Tayor Decomposition [pdf](https://arxiv.org/abs/1512.02479)
   
