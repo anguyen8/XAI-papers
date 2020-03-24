@@ -140,6 +140,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 ### B1.3 Evaluating heatmaps
 * The (Un)reliability of saliency methods. _Kindermans et al. 2018_ [pdf](https://openreview.net/forum?id=r1Oen--RW)
+* ROAR: A Benchmark for Interpretability Methods in Deep Neural Networks. _Hooker et al. NeurIPS 2019_ [pdf](https://arxiv.org/abs/1806.10758) | [code](https://github.com/google-research/google-research/tree/master/interpretability_benchmark)
 * Sanity Checks for Saliency Maps. _Adebayo et al. 2018_ [pdf](http://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf)
 * A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations. _Nie et al. 2018_ [pdf](https://arxiv.org/abs/1805.07039)
 * BIM: Towards Quantitative Evaluation of Interpretability Methods with Ground Truth. _Yang et al. 2019_ [pdf](https://arxiv.org/abs/1907.09701)
