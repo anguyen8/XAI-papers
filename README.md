@@ -7,6 +7,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 # GUI tools
 * DeepVis: Deep Visualization Toolbox. _Yosinski et al. ICML 2015_ [code](https://github.com/yosinski/deep-visualization-toolbox) | [pdf](http://yosinski.com/deepvis)
 * SWAP: Generate adversarial poses of objects in a 3D space. _Alcorn et al. CVPR 2019_ [code](https://github.com/airalcorn2/strike-with-a-pose) | [pdf](https://arxiv.org/abs/1811.11553)
+* AllenNLP: Query online NLP models with user-provided inputs and observe explanations (Gradient, Integrated Gradient, SmoothGrad). _Last accessed 03/2020_ [demo](https://demo.allennlp.org/sentiment-analysis)
 
 # Libraries
 * [CNN visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) (activation maximization, PyTorch)
