@@ -118,8 +118,8 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 #### Learning the heatmap
 * MP: Interpretable Explanations of Black Boxes by Meaningful Perturbation. _Fong et al. 2017_ [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fong_Interpretable_Explanations_of_ICCV_2017_paper.pdf)
   * MP-G: Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal et al. 2019_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
-  * Understanding Deep Networks via Extremal Perturbations and Smooth Masks. _Fong et al. 2019_ [pdf](https://arxiv.org/abs/1910.08485)
-* FIDO: Explaining image classifiers by counterfactual generation. _Chang et al. 2019_ [pdf](https://arxiv.org/pdf/1807.08024.pdf)
+  * Understanding Deep Networks via Extremal Perturbations and Smooth Masks. _Fong et al. ICCV 2019_ [pdf](https://arxiv.org/abs/1910.08485)
+* FIDO: Explaining image classifiers by counterfactual generation. _Chang et al. ICLR 2019_ [pdf](https://arxiv.org/pdf/1807.08024.pdf)
 * FG-Vis: Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks. _Wagner et al. CVPR 2019_ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
 
 #### Attributions of network biases
@@ -132,8 +132,8 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 ### B1.2 Black-box / Perturbation-based
 * Sliding-Patch: Visualizing and understanding convolutional networks. _Zeiler et al. 2014_ [pdf](https://arxiv.org/pdf/1311.2901.pdf)
-* PDA: Visualizing deep neural network decisions: Prediction difference analysis. _Zintgraf et al. 2017_ [pdf](https://arxiv.org/pdf/1702.04595.pdf)
-* RISE: Randomized Input Sampling for Explanation of Black-box Models. _Petsiuk et al. 2018_ [pdf](https://arxiv.org/pdf/1806.07421.pdf)
+* PDA: Visualizing deep neural network decisions: Prediction difference analysis. _Zintgraf et al. ICLR 2017_ [pdf](https://arxiv.org/pdf/1702.04595.pdf)
+* RISE: Randomized Input Sampling for Explanation of Black-box Models. _Petsiuk et al. BMVC 2018_ [pdf](https://arxiv.org/pdf/1806.07421.pdf)
 * LIME: Why should i trust you?: Explaining the predictions of any classifier. _Ribeiro et al. 2016_ [pdf](https://arxiv.org/pdf/1602.04938.pdf) | [blog](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
   * LIME-G: Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal et al. 2019_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
 * SHAP: A Unified Approach to Interpreting Model Predictions. _Lundberg et al. 2017_ [pdf](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) | [code](https://github.com/slundberg/shap)
