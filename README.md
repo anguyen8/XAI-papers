@@ -130,7 +130,18 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Visual explanation by interpretation: Improving visual feedback capabilities of deep neural networks. _Oramas et al. 2019_ [pdf](https://arxiv.org/pdf/1712.06302.pdf)
 * Regional Multi-scale Approach for Visually Pleasing Explanations of Deep Neural Networks. _Seo et al. 2018_ [pdf](https://arxiv.org/pdf/1807.11720.pdf)b
 
-### B1.2 Black-box / Perturbation-based
+### B1.2 Attention as Explanation
+
+#### Computer Vision
+* Multimodal explanations: Justifying decisions and pointing to the evidence. _Park et al. CVPR 2018_ [pdf](https://arxiv.org/abs/1802.08129)
+
+#### NLP
+* Attention is not Explanation. _Jain & Wallace. NAACL 2019_ [pdf](https://www.aclweb.org/anthology/N19-1357.pdf)
+* Attention is not not Explanation. _Wiegreffe & Pinter. EMNLP 2019_ [pdf](https://www.aclweb.org/anthology/D19-1002.pdf)
+* Learning to Deceive with Attention-Based Explanations. _Pruthi et al. ACL 2020_ [pdf](https://arxiv.org/pdf/1909.07913.pdf)
+
+
+### B1.3 Black-box / Perturbation-based
 * Sliding-Patch: Visualizing and understanding convolutional networks. _Zeiler et al. 2014_ [pdf](https://arxiv.org/pdf/1311.2901.pdf)
 * PDA: Visualizing deep neural network decisions: Prediction difference analysis. _Zintgraf et al. ICLR 2017_ [pdf](https://arxiv.org/pdf/1702.04595.pdf)
 * RISE: Randomized Input Sampling for Explanation of Black-box Models. _Petsiuk et al. BMVC 2018_ [pdf](https://arxiv.org/pdf/1806.07421.pdf)
@@ -139,7 +150,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * SHAP: A Unified Approach to Interpreting Model Predictions. _Lundberg et al. 2017_ [pdf](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) | [code](https://github.com/slundberg/shap)
 * OSFT: Interpreting Black Box Models via Hypothesis Testing. _Burns et al. 2019_ [pdf](https://arxiv.org/pdf/1904.00045.pdf)
 
-### B1.3 Evaluating heatmaps
+### B1.4 Evaluating heatmaps
 * The (Un)reliability of saliency methods. _Kindermans et al. 2018_ [pdf](https://openreview.net/forum?id=r1Oen--RW)
 * ROAR: A Benchmark for Interpretability Methods in Deep Neural Networks. _Hooker et al. NeurIPS 2019_ [pdf](https://arxiv.org/abs/1806.10758) | [code](https://github.com/google-research/google-research/tree/master/interpretability_benchmark)
 * Sanity Checks for Saliency Maps. _Adebayo et al. 2018_ [pdf](http://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf)
