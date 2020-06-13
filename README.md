@@ -152,6 +152,8 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * OSFT: Interpreting Black Box Models via Hypothesis Testing. _Burns et al. 2019_ [pdf](https://arxiv.org/pdf/1904.00045.pdf)
 
 ### B1.4 Evaluating heatmaps
+
+#### Computer Vision
 * The (Un)reliability of saliency methods. _Kindermans et al. 2018_ [pdf](https://openreview.net/forum?id=r1Oen--RW)
 * ROAR: A Benchmark for Interpretability Methods in Deep Neural Networks. _Hooker et al. NeurIPS 2019_ [pdf](https://arxiv.org/abs/1806.10758) | [code](https://github.com/google-research/google-research/tree/master/interpretability_benchmark)
 * Sanity Checks for Saliency Maps. _Adebayo et al. 2018_ [pdf](http://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf)
@@ -159,6 +161,9 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * BIM: Towards Quantitative Evaluation of Interpretability Methods with Ground Truth. _Yang et al. 2019_ [pdf](https://arxiv.org/abs/1907.09701)
 * On the (In)fidelity and Sensitivity for Explanations. _Yeh et al. 2019_ [pdf](https://arxiv.org/pdf/1901.09392.pdf)
 * SAM: The Sensitivity of Attribution Methods to Hyperparameters. _Bansal, Agarwal, Nguyen. CVPR 2020_ [pdf](http://anhnguyen.me/project/sam/) | [code](https://github.com/anguyen8/sam)
+
+#### NLP
+* Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior? _Hase & Bansal ACL 2020_ [pdf](https://arxiv.org/pdf/2005.01831.pdf) | [code](https://github.com/peterbhase/InterpretableNLP-ACL2020)
 
 
 ## B2. Learning to explain
