@@ -78,8 +78,9 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability. _Raghu et al. 2017_ [pdf](https://arxiv.org/abs/1706.05806) | [code](https://github.com/google/svcca)
 * A Peek Into the Hidden Layers of a Convolutional Neural Network Through a Factorization Lens. _Saini et al. 2018_ [pdf](https://arxiv.org/abs/1806.02012)
 * Network Dissection: Quantifying Interpretability of Deep Visual Representations. _Bau et al. CVPR 2017_ [url](http://netdissect.csail.mit.edu/) | [pdf](http://netdissect.csail.mit.edu/final-network-dissection.pdf)
-  * GAN Dissection: Visualizing and Understanding Generative Adversarial Networks. _Bau et al. 2018_ [pdf](https://arxiv.org/abs/1811.10597)
-  * Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks. _Fong & Vedaldi 2018_ [pdf](https://arxiv.org/abs/1801.03454)
+  * GAN Dissection: Visualizing and Understanding Generative Adversarial Networks. _Bau et al. ICLR 2019_ [pdf](https://arxiv.org/abs/1811.10597)
+  * Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks. _Fong & Vedaldi CVPR 2018_ [pdf](https://arxiv.org/abs/1801.03454)
+  * Intriguing generalization and simplicity of adversarially trained neural networks. _Agarwal, Chen, Nguyen 2020_ [pdf](http://anhnguyen.me/project/generalization-simplicity-robust-networks/)
 
 
 ## A5. Network surgery
@@ -186,6 +187,11 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections. _Zhang et al. 2018_ [pdf](http://papers.nips.cc/paper/7736-interpreting-neural-network-judgments-via-minimal-stable-and-symbolic-corrections.pdf)
 * Counterfactual Visual Explanations. _Goyal et al. 2019_ [pdf](https://arxiv.org/pdf/1904.07451.pdf)
 * Generative Counterfactual Introspection for Explainable Deep Learning. _Liu et al. 2019_ [pdf](https://arxiv.org/abs/1907.03077)
+
+### Generative models
+* Generative causal explanations of black-box classifiers. _O’Shaughnessy et al. 2020_ [pdf](https://arxiv.org/abs/2006.13913) 
+* Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal et al. 2019_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
+
 
 # D. Others
 * Yang, S. C. H., & Shafto, P. Explainable Artificial Intelligence via Bayesian Teaching. NIPS 2017 [pdf](http://shaftolab.com/assets/papers/yangShafto_NIPS_2017_machine_teaching.pdf)
