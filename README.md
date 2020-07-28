@@ -27,6 +27,9 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * DARPA updates on the XAI program [pdf](https://www.darpa.mil/attachments/XAIProgramUpdate.pdf)
 * Explainable Artificial Intelligence: a Systematic Review. _Vilone at al. 2020_ [pdf](https://arxiv.org/pdf/2006.00093.pdf)
 
+#### Opinions
+* Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead _Rudin et al. Nature 2019_ [pdf](https://www.nature.com/articles/s42256-019-0048-x)
+
 #### Definitions of Interpretability
 * The Mythos of Model Interpretability. _Lipton 2016_ [pdf](https://arxiv.org/abs/1606.03490)
 * Towards A Rigorous Science of Interpretable Machine Learning. _Doshi-Velez & Kim. 2017_ [pdf](https://arxiv.org/pdf/1702.08608.pdf)
@@ -174,8 +177,10 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Learning Explainable Models Using Attribution Priors. _Erion et al. 2019_ [pdf](https://arxiv.org/abs/1906.10670)
 * Interpretations are useful: penalizing explanations to align neural networks with prior knowledge. _Rieger et al. 2019_ [pdf](https://arxiv.org/pdf/1909.13584.pdf)
 
+### B2.2 Explaining by prototypical parts
+* This Looks Like That: Deep Learning for Interpretable Image Recognition. _Chen et al. NeurIPS 2019_ [pdf](https://arxiv.org/abs/1806.10574) | [code](https://github.com/cfchen-duke/ProtoPNet)
 
-### B2.2 Others
+### B2.3 Others
 * Learning how to explain neural networks: PatternNet and PatternAttribution [pdf](https://arxiv.org/abs/1705.05598)
 * Deep Learning for Case-Based Reasoning through Prototypes [pdf](https://arxiv.org/pdf/1710.04806.pdf)
 * Unsupervised Learning of Neural Networks to Explain Neural Networks [pdf](https://arxiv.org/abs/1805.07468)
