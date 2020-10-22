@@ -10,10 +10,12 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * AllenNLP: Query online NLP models with user-provided inputs and observe explanations (Gradient, Integrated Gradient, SmoothGrad). _Last accessed 03/2020_ [demo](https://demo.allennlp.org/sentiment-analysis)
 
 # Libraries
-* [CNN visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) (activation maximization, PyTorch)
-* [iNNvestigate](https://github.com/albermax/innvestigate) (heatmaps, Keras)
-* [DeepExplain](https://github.com/marcoancona/DeepExplain) (heatmaps, Keras)
-* [Lucid](https://github.com/tensorflow/lucid) (activation maximization, heatmaps, Tensorflow)
+* [CNN visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) (feature visualization, PyTorch)
+* [iNNvestigate](https://github.com/albermax/innvestigate) (attribution, Keras)
+* [DeepExplain](https://github.com/marcoancona/DeepExplain) (attribution, Keras)
+* [Lucid](https://github.com/tensorflow/lucid) (feature visualization, attribution, Tensorflow)
+* [TorchRay](https://facebookresearch.github.io/TorchRay/) (attribution, PyTorch)
+* [Captum](https://captum.ai/) (attribution, PyTorch)
 
 # Surveys
 
@@ -111,6 +113,8 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Integrated Gradients: Axiomatic Attribution for Deep Networks. _Sundararajan et al. 2018_ [pdf](http://proceedings.mlr.press/v70/sundararajan17a/sundararajan17a.pdf) | [code](https://github.com/ankurtaly/Integrated-Gradients)
   * Expected Gradients: Learning Explainable Models Using Attribution Priors. _Erion et al. 2019_ [pdf](https://arxiv.org/abs/1906.10670) | [code](https://github.com/suinleelab/attributionpriors)
   * I-GOR: Visualizing Deep Networks by Optimizing with Integrated Gradients. _Qi et al. 2019_ [pdf](https://arxiv.org/pdf/1905.00954.pdf)
+  * BlurIG: Attribution in Scale and Space. _Xu et al. CVPR 2020_ [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Attribution_in_Scale_and_Space_CVPR_2020_paper.pdf) | [code](https://github.com/PAIR-code/saliency)
+  * XRAI: Better Attributions Through Regions. _Kapishnikov et al. ICCV 2019_ [pdf](https://arxiv.org/abs/1906.02825) | [code](https://github.com/PAIR-code/saliency)
 * LRP: Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation [pdf](https://arxiv.org/abs/1712.08268)
   * DTD: Explaining NonLinear Classification Decisions With Deep Tayor Decomposition [pdf](https://arxiv.org/abs/1512.02479)
   
@@ -119,11 +123,12 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization. _Selvaraju et al. 2017_ [pdf](https://arxiv.org/abs/1610.02391)
 * Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks. _Chattopadhyay et al. 2017_ [pdf](https://arxiv.org/abs/1710.11063) | [code](https://github.com/adityac94/Grad_CAM_plus_plus)
 * Smooth Grad-CAM++: An Enhanced Inference Level Visualization Technique for Deep Convolutional Neural Network Models. _Omeiza et al. 2019_ [pdf](https://arxiv.org/pdf/1908.01224.pdf)
+* NormGrad: There and Back Again: Revisiting Backpropagation Saliency Methods. _Rebuffi et al. CVPR 2020_ [pdf](https://arxiv.org/abs/2004.02866) | [code](https://github.com/srebuffi/revisiting_saliency)
 
 #### Learning the heatmap
 * MP: Interpretable Explanations of Black Boxes by Meaningful Perturbation. _Fong et al. 2017_ [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fong_Interpretable_Explanations_of_ICCV_2017_paper.pdf)
   * MP-G: Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal et al. 2019_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
-  * Understanding Deep Networks via Extremal Perturbations and Smooth Masks. _Fong et al. ICCV 2019_ [pdf](https://arxiv.org/abs/1910.08485)
+  * Understanding Deep Networks via Extremal Perturbations and Smooth Masks. _Fong et al. ICCV 2019_ [pdf](https://arxiv.org/abs/1910.08485) | [code](https://github.com/ruthcfong/TorchRay/tree/normgrad)
 * FIDO: Explaining image classifiers by counterfactual generation. _Chang et al. ICLR 2019_ [pdf](https://arxiv.org/pdf/1807.08024.pdf)
 * FG-Vis: Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks. _Wagner et al. CVPR 2019_ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
 
