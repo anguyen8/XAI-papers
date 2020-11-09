@@ -86,6 +86,8 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
   * GAN Dissection: Visualizing and Understanding Generative Adversarial Networks. _Bau et al. ICLR 2019_ [pdf](https://arxiv.org/abs/1811.10597)
   * Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks. _Fong & Vedaldi CVPR 2018_ [pdf](https://arxiv.org/abs/1801.03454)
   * Intriguing generalization and simplicity of adversarially trained neural networks. _Agarwal, Chen, Nguyen 2020_ [pdf](http://anhnguyen.me/project/generalization-simplicity-robust-networks/)
+  * Understanding the Role of Individual Units in a Deep Neural Network. _Bau et al. PNAS 2020_ [pdf](https://arxiv.org/abs/2009.05041)
+
 
 
 ## A5. Network surgery
@@ -182,8 +184,10 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Learning Explainable Models Using Attribution Priors. _Erion et al. 2019_ [pdf](https://arxiv.org/abs/1906.10670)
 * Interpretations are useful: penalizing explanations to align neural networks with prior knowledge. _Rieger et al. 2019_ [pdf](https://arxiv.org/pdf/1909.13584.pdf)
 
-### B2.2 Explaining by prototypical parts
+### B2.2 Explaining by examples (prototypes)
 * This Looks Like That: Deep Learning for Interpretable Image Recognition. _Chen et al. NeurIPS 2019_ [pdf](https://arxiv.org/abs/1806.10574) | [code](https://github.com/cfchen-duke/ProtoPNet)
+  * This Looks Like That, Because ... Explaining Prototypes for Interpretable Image Recognition. _Nauta et al. 2020_ [pdf](https://arxiv.org/pdf/2011.02863.pdf)
+
 
 ### B2.3 Others
 * Learning how to explain neural networks: PatternNet and PatternAttribution [pdf](https://arxiv.org/abs/1705.05598)
