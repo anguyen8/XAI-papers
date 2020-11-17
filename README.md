@@ -100,6 +100,10 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 # B. Decision explanations
 
 ## B1. Attribution maps
+
+### B1.0 Surveys
+* Feature Removal Is A Unifying Principle For Model Explanation Methods. _Covert et al. 2020_ [pdf](https://arxiv.org/pdf/2011.03623.pdf "A survey that explains how 25 attribution methods remove features to measure their importance to model decisions.")
+
 ### B1.1 White-box / Gradient-based
 
 * A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks [pdf](https://arxiv.org/pdf/1606.07757.pdf)
