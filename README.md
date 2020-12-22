@@ -16,6 +16,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * [Lucid](https://github.com/tensorflow/lucid) (feature visualization, attribution, Tensorflow)
 * [TorchRay](https://facebookresearch.github.io/TorchRay/) (attribution, PyTorch)
 * [Captum](https://captum.ai/) (attribution, PyTorch)
+* [InterpretML](https://github.com/interpretml/interpret) (attribution, Python)
 
 # Surveys
 
