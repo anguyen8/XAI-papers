@@ -103,7 +103,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 ## B1. Attribution maps
 
 ### B1.0 Surveys
-* Feature Removal Is A Unifying Principle For Model Explanation Methods. _Covert et al. 2020_ [pdf](https://arxiv.org/pdf/2011.03623.pdf "A survey that explains how 25 attribution methods remove features to measure their importance to model decisions.")
+* Feature Removal Is A Unifying Principle For Model Explanation Methods. _Covert et al. 2020_ [pdf](https://arxiv.org/pdf/2011.03623.pdf "A survey unifying 25 attribution methods that remove features to measure their importance to model decisions.")
 
 ### B1.1 White-box / Gradient-based
 
@@ -191,7 +191,8 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 ### B2.2 Explaining by examples (prototypes)
 * This Looks Like That: Deep Learning for Interpretable Image Recognition. _Chen et al. NeurIPS 2019_ [pdf](https://arxiv.org/abs/1806.10574) | [code](https://github.com/cfchen-duke/ProtoPNet)
-  * This Looks Like That, Because ... Explaining Prototypes for Interpretable Image Recognition. _Nauta et al. 2020_ [pdf](https://arxiv.org/pdf/2011.02863.pdf)
+  * ProtoPNet: This Looks Like That, Because ... Explaining Prototypes for Interpretable Image Recognition. _Nauta et al. 2020_ [pdf](https://arxiv.org/pdf/2011.02863.pdf)
+  * NP-ProtoPNet: These do not Look Like Those. _Singh et al. 2021_ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9373404 "ProtoPNet with negative prototypes and applied to chest x-rays") 
 
 
 ### B2.3 Others
