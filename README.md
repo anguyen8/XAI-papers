@@ -180,6 +180,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 #### NLP
 * Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior? _Hase & Bansal ACL 2020_ [pdf](https://arxiv.org/pdf/2005.01831.pdf) | [code](https://github.com/peterbhase/InterpretableNLP-ACL2020)
+* Teach Me to Explain: A Review of Datasets for Explainable NLP. _Wiegreffe & Marasović 2021_ [pdf](https://arxiv.org/abs/2102.12060 "A survey of datasets with groundtruth heatmaps/input-highlights, free-text explanations, and structured explanations") | [web](https://exnlpdatasets.github.io/)
 
 
 ## B2. Learning to explain
