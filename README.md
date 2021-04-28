@@ -33,6 +33,9 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 #### Opinions
 * Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead _Rudin et al. Nature 2019_ [pdf](https://www.nature.com/articles/s42256-019-0048-x)
 
+#### Open research questions
+* Interpretable Machine Learning: Fundamental Principles and 10 Grand Challenges. _Rudin et al 2021_ [pdf](https://arxiv.org/pdf/2103.11251.pdf "A list of traditional and emerging problems/challenges in the area of XAI / interpretable ML")
+
 #### Definitions of Interpretability
 * The Mythos of Model Interpretability. _Lipton 2016_ [pdf](https://arxiv.org/abs/1606.03490)
 * Towards A Rigorous Science of Interpretable Machine Learning. _Doshi-Velez & Kim. 2017_ [pdf](https://arxiv.org/pdf/1702.08608.pdf)
