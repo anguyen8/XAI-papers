@@ -8,6 +8,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * DeepVis: Deep Visualization Toolbox. _Yosinski et al. ICML 2015_ [code](https://github.com/yosinski/deep-visualization-toolbox) | [pdf](http://yosinski.com/deepvis)
 * SWAP: Generate adversarial poses of objects in a 3D space. _Alcorn et al. CVPR 2019_ [code](https://github.com/airalcorn2/strike-with-a-pose) | [pdf](https://arxiv.org/abs/1811.11553)
 * AllenNLP: Query online NLP models with user-provided inputs and observe explanations (Gradient, Integrated Gradient, SmoothGrad). _Last accessed 03/2020_ [demo](https://demo.allennlp.org/sentiment-analysis)
+* 3DB: A framework for analyzing computer vision models with simulated data [code](https://github.com/3db/3db/)
 
 # Libraries
 * [CNN visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) (feature visualization, PyTorch)
@@ -180,6 +181,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * BIM: Towards Quantitative Evaluation of Interpretability Methods with Ground Truth. _Yang et al. 2019_ [pdf](https://arxiv.org/abs/1907.09701)
 * On the (In)fidelity and Sensitivity for Explanations. _Yeh et al. 2019_ [pdf](https://arxiv.org/pdf/1901.09392.pdf)
 * SAM: The Sensitivity of Attribution Methods to Hyperparameters. _Bansal, Agarwal, Nguyen. CVPR 2020_ [pdf](http://anhnguyen.me/project/sam/) | [code](https://github.com/anguyen8/sam)
+* The effectiveness of feature attribution methods and its correlation with automatic evaluation scores. _Nguyen, Kim, Nguyen 2021_ [pdf](http://anhnguyen.me/project/feature-attribution-effectiveness/ "On image classification, feature attribution maps are less effective in improving human-AI team compared to a simple nearest-neighbor method. The effectiveness of heatmaps also does not correlate with their localization performance.")
 
 #### NLP
 * Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior? _Hase & Bansal ACL 2020_ [pdf](https://arxiv.org/pdf/2005.01831.pdf) | [code](https://github.com/peterbhase/InterpretableNLP-ACL2020)
