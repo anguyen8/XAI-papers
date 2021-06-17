@@ -187,6 +187,9 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior? _Hase & Bansal ACL 2020_ [pdf](https://arxiv.org/pdf/2005.01831.pdf) | [code](https://github.com/peterbhase/InterpretableNLP-ACL2020)
 * Teach Me to Explain: A Review of Datasets for Explainable NLP. _Wiegreffe & Marasović 2021_ [pdf](https://arxiv.org/abs/2102.12060 "A survey of datasets with groundtruth heatmaps/input-highlights, free-text explanations, and structured explanations") | [web](https://exnlpdatasets.github.io/)
 
+#### Tabular data
+* Challenging common interpretability assumptions in feature attribution explanations? _Dinu et al. NeurIPS workshop 2020_ [pdf](https://arxiv.org/abs/2012.02748 "Feature attribution explanations provide marginal utility for a human decision-maker in house-price prediction, and in some cases result in worse decisions due to cognitive and contextual confounders. More human evaluation in XAI research needed.")
+
 
 ## B2. Learning to explain
 
