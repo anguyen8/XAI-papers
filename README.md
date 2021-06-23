@@ -33,6 +33,8 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 #### Opinions
 * Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead _Rudin et al. Nature 2019_ [pdf](https://www.nature.com/articles/s42256-019-0048-x)
+* Towards falsifiable interpretability research. _Leavitt & Morcos 2020_ [pdf](https://arxiv.org/abs/2010.12016 "Issues with the current evaluation of attribution maps, feature visualization methods and Best practices for robust, falsifiable interpretability research")
+
 
 #### Open research questions
 * Interpretable Machine Learning: Fundamental Principles and 10 Grand Challenges. _Rudin et al 2021_ [pdf](https://arxiv.org/pdf/2103.11251.pdf "A list of traditional and emerging problems/challenges in the area of XAI / interpretable ML")
