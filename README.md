@@ -206,7 +206,11 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
   * NP-ProtoPNet: These do not Look Like Those. _Singh et al. 2021_ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9373404 "ProtoPNet with negative prototypes and applied to chest x-rays") 
 
 
-### B2.3 Others
+### B2.3 Adversarial attacks on XAI systems with humans in the loop
+* When and How to Fool Explainable Models (and Humans) with Adversarial Examples. _Vadilo et al. 2021_ [pdf](https://arxiv.org/abs/2107.01943 "A framework of scenarios, assumptions, and humans in an XAI system under adversarial attacks")
+* The effectiveness of feature attribution methods and its correlation with automatic evaluation scores. _Nguyen, Kim, Nguyen 2021_ [pdf](http://anhnguyen.me/project/feature-attribution-effectiveness/ "On image classification, feature attribution maps are less effective in improving human-AI team compared to a simple nearest-neighbor method. The effectiveness of heatmaps also does not correlate with their localization performance.")
+
+### B2.4 Others
 * Learning how to explain neural networks: PatternNet and PatternAttribution [pdf](https://arxiv.org/abs/1705.05598)
 * Deep Learning for Case-Based Reasoning through Prototypes [pdf](https://arxiv.org/pdf/1710.04806.pdf)
 * Unsupervised Learning of Neural Networks to Explain Neural Networks [pdf](https://arxiv.org/abs/1805.07468)
