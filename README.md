@@ -47,7 +47,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 #### Books
 * A Guide for Making Black Box Models Explainable. _Molnar 2019_ [pdf](https://christophm.github.io/interpretable-ml-book/)
 
-# A. Explaining inner-workings
+# A. Explaining model inner-workings
 
 ## A1. Visualizing Preferred Stimuli
 
@@ -104,7 +104,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * NLIZE: A Perturbation-Driven Visual Interrogation Tool for Analyzing and Interpreting Natural Language Inference Models. _Liu et al. 2018_ [pdf](http://www.sci.utah.edu/~shusenl/publications/paper_entailVis.pdf)
 
 
-# B. Decision explanations
+# B. Explaining model decisions
 
 ## B1. Attribution maps
 
@@ -191,6 +191,16 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 #### Tabular data
 * Challenging common interpretability assumptions in feature attribution explanations? _Dinu et al. NeurIPS workshop 2020_ [pdf](https://arxiv.org/abs/2012.02748 "Feature attribution explanations provide marginal utility for a human decision-maker in house-price prediction, and in some cases result in worse decisions due to cognitive and contextual confounders. More human evaluation in XAI research needed.")
+
+### B1.5 Explaining image-image similarity
+
+* BiLRP: Building and Interpreting Deep Similarity Models. _Jie Zhou et al. TPAMI 2020_ [pdf](https://arxiv.org/abs/2003.05431 "LRP applied to image matching models")
+* Why do These Match? Explaining the Behavior of Image Similarity Models. _Plummer et al. ECCV 2020_ [pdf](https://arxiv.org/abs/1905.10797 "Matching saliency maps to discrete attributes for specific applications for clothes recommendation")
+
+
+#### Face verification
+* DISE: Explainable Face Recognition. _Williford et al. ECCV 2020_ [pdf](https://arxiv.org/abs/2008.00916 "Extension of RISE in face-matching. Mask out a small region in the query image to compute its attribution to the image-matching triplet loss") | [code](https://github.com/stresearch/xfr)
+* xCos: An explainable cosine metric for face verification task. _Lin et al. 2021_ [pdf](https://arxiv.org/abs/2003.05383) | [code](https://github.com/ntubiolin/xcos)
 
 
 ## B2. Learning to explain
