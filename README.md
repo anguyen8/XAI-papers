@@ -196,7 +196,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 * BiLRP: Building and Interpreting Deep Similarity Models. _Jie Zhou et al. TPAMI 2020_ [pdf](https://arxiv.org/abs/2003.05431 "LRP applied to image matching models")
 * Why do These Match? Explaining the Behavior of Image Similarity Models. _Plummer et al. ECCV 2020_ [pdf](https://arxiv.org/abs/1905.10797 "Matching saliency maps to discrete attributes for specific applications for clothes recommendation")
-
+* Visualizing Deep Similarity Networks. _Stylianou et al. WACV 2019_ [pdf](https://arxiv.org/abs/1901.00536 "Factoring the dot product of two Siamese branches into two heatmaps, each for a branch.") | [code](https://github.com/GWUvision/Similarity-Visualization)
 
 #### Face verification
 * DISE: Explainable Face Recognition. _Williford et al. ECCV 2020_ [pdf](https://arxiv.org/abs/2008.00916 "Extension of RISE in face-matching. Mask out a small region in the query image to compute its attribution to the image-matching triplet loss") | [code](https://github.com/stresearch/xfr)
