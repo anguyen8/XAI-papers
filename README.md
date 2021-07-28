@@ -184,6 +184,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * On the (In)fidelity and Sensitivity for Explanations. _Yeh et al. 2019_ [pdf](https://arxiv.org/pdf/1901.09392.pdf)
 * SAM: The Sensitivity of Attribution Methods to Hyperparameters. _Bansal, Agarwal, Nguyen. CVPR 2020_ [pdf](http://anhnguyen.me/project/sam/) | [code](https://github.com/anguyen8/sam)
 * The effectiveness of feature attribution methods and its correlation with automatic evaluation scores. _Nguyen, Kim, Nguyen 2021_ [pdf](http://anhnguyen.me/project/feature-attribution-effectiveness/ "On image classification, feature attribution maps are less effective in improving human-AI team compared to a simple nearest-neighbor method. The effectiveness of heatmaps also does not correlate with their localization performance.")
+* Debugging Tests for Model Explanations. _Adebayo et al. NeurIPS 2020_ [pdf](https://proceedings.neurips.cc/paper/2020/file/075b051ec3d22dac7b33f788da631fd4-Paper.pdf "Testing an extensive list of attribution methods and humans when data contain spurious, correlated features, and on out-of-samples")
 
 #### NLP
 * Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior? _Hase & Bansal ACL 2020_ [pdf](https://arxiv.org/pdf/2005.01831.pdf) | [code](https://github.com/peterbhase/InterpretableNLP-ACL2020)
