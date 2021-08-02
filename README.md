@@ -210,6 +210,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations. _Ross et al. IJCAI 2017_ [pdf](https://www.ijcai.org/Proceedings/2017/0371.pdf)
 * Learning Explainable Models Using Attribution Priors. _Erion et al. 2019_ [pdf](https://arxiv.org/abs/1906.10670)
 * Interpretations are useful: penalizing explanations to align neural networks with prior knowledge. _Rieger et al. 2019_ [pdf](https://arxiv.org/pdf/1909.13584.pdf)
+* L2E: Learning to Explain: Generating Stable Explanations Fast. _Situ et al. ACL 2021_ [pdf](https://aclanthology.org/2021.acl-long.415.pdf "Training neural networks to mimic a black-box attribution methods e.g. Occlusion, LIME, SHAP produces a faster and more stable explanation method.") | [code](https://github.com/situsnow/L2E)
 
 ### B2.2 Explaining by examples (prototypes)
 * This Looks Like That: Deep Learning for Interpretable Image Recognition. _Chen et al. NeurIPS 2019_ [pdf](https://arxiv.org/abs/1806.10574) | [code](https://github.com/cfchen-duke/ProtoPNet)
