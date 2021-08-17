@@ -92,7 +92,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Network Dissection: Quantifying Interpretability of Deep Visual Representations. _Bau et al. CVPR 2017_ [url](http://netdissect.csail.mit.edu/) | [pdf](http://netdissect.csail.mit.edu/final-network-dissection.pdf)
   * GAN Dissection: Visualizing and Understanding Generative Adversarial Networks. _Bau et al. ICLR 2019_ [pdf](https://arxiv.org/abs/1811.10597)
   * Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks. _Fong & Vedaldi CVPR 2018_ [pdf](https://arxiv.org/abs/1801.03454)
-  * Intriguing generalization and simplicity of adversarially trained neural networks. _Agarwal, Chen, Nguyen 2020_ [pdf](http://anhnguyen.me/project/generalization-simplicity-robust-networks/)
+  * Intriguing generalization and simplicity of adversarially trained neural networks. _Chen, Agarwal, Nguyen 2020_ [pdf](http://anhnguyen.me/project/generalization-simplicity-robust-networks/)
   * Understanding the Role of Individual Units in a Deep Neural Network. _Bau et al. PNAS 2020_ [pdf](https://arxiv.org/abs/2009.05041)
 
 
@@ -142,7 +142,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 #### Learning the heatmap
 * MP: Interpretable Explanations of Black Boxes by Meaningful Perturbation. _Fong et al. 2017_ [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fong_Interpretable_Explanations_of_ICCV_2017_paper.pdf)
-  * MP-G: Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal et al. 2019_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
+  * MP-G: Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal & Nguyen ACCV 2020_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
   * Understanding Deep Networks via Extremal Perturbations and Smooth Masks. _Fong et al. ICCV 2019_ [pdf](https://arxiv.org/abs/1910.08485) | [code](https://github.com/ruthcfong/TorchRay/tree/normgrad)
 * FIDO: Explaining image classifiers by counterfactual generation. _Chang et al. ICLR 2019_ [pdf](https://arxiv.org/pdf/1807.08024.pdf)
 * FG-Vis: Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks. _Wagner et al. CVPR 2019_ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
@@ -171,7 +171,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * PDA: Visualizing deep neural network decisions: Prediction difference analysis. _Zintgraf et al. ICLR 2017_ [pdf](https://arxiv.org/pdf/1702.04595.pdf)
 * RISE: Randomized Input Sampling for Explanation of Black-box Models. _Petsiuk et al. BMVC 2018_ [pdf](https://arxiv.org/pdf/1806.07421.pdf)
 * LIME: Why should i trust you?: Explaining the predictions of any classifier. _Ribeiro et al. 2016_ [pdf](https://arxiv.org/pdf/1602.04938.pdf) | [blog](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
-  * LIME-G: Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal et al. 2019_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
+  * LIME-G: Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal & Nguyen. ACCV 2020_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
 * SHAP: A Unified Approach to Interpreting Model Predictions. _Lundberg et al. 2017_ [pdf](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) | [code](https://github.com/slundberg/shap)
 * OSFT: Interpreting Black Box Models via Hypothesis Testing. _Burns et al. 2019_ [pdf](https://arxiv.org/pdf/1904.00045.pdf)
 
