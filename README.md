@@ -137,6 +137,8 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks. _Chattopadhyay et al. 2017_ [pdf](https://arxiv.org/abs/1710.11063) | [code](https://github.com/adityac94/Grad_CAM_plus_plus)
 * Smooth Grad-CAM++: An Enhanced Inference Level Visualization Technique for Deep Convolutional Neural Network Models. _Omeiza et al. 2019_ [pdf](https://arxiv.org/pdf/1908.01224.pdf)
 * NormGrad: There and Back Again: Revisiting Backpropagation Saliency Methods. _Rebuffi et al. CVPR 2020_ [pdf](https://arxiv.org/abs/2004.02866) | [code](https://github.com/srebuffi/revisiting_saliency)
+* Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks. _Wang et al. CVPR 2020 workshop_ [pdf](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w1/Wang_Score-CAM_Score-Weighted_Visual_Explanations_for_Convolutional_Neural_Networks_CVPRW_2020_paper.pdf "Use activation maps to mask out the input image and generate masked inputs; Use the difference between the original score and score on masked inputs to weight the activation maps and linearly combine them into a Score-CAM heatmap.") | [code](https://github.com/haofanwang/Score-CAM)
+
 
 #### Learning the heatmap
 * MP: Interpretable Explanations of Black Boxes by Meaningful Perturbation. _Fong et al. 2017_ [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fong_Interpretable_Explanations_of_ICCV_2017_paper.pdf)
