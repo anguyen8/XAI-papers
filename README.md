@@ -195,6 +195,10 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 #### Tabular data
 * Challenging common interpretability assumptions in feature attribution explanations? _Dinu et al. NeurIPS workshop 2020_ [pdf](https://arxiv.org/abs/2012.02748 "Feature attribution explanations provide marginal utility for a human decision-maker in house-price prediction, and in some cases result in worse decisions due to cognitive and contextual confounders. More human evaluation in XAI research needed.")
 
+#### Many domains
+* How Can I Explain This to You? An Empirical Study of Deep Neural Network Explanation Methods. _Jeyakumar et al. NeurIPS 2020_ [pdf](https://proceedings.neurips.cc/paper/2020/file/2c29d89cc56cdb191c60db2f0bae796b-Paper.pdf "A human study to identify which explanation method is preferred by humans on CIFAR-10, sentiment analysis, keyword detection, heartbeat classification from ECG. Explanation-by-example was preferred in all domains except text sentiment classification, where LIME’s method of annotating input text was preferred.") | [code](https://github.com/nesl/Explainability-Study)
+
+
 ### B1.5 Explaining image-image similarity
 
 * BiLRP: Building and Interpreting Deep Similarity Models. _Jie Zhou et al. TPAMI 2020_ [pdf](https://arxiv.org/abs/2003.05431 "LRP applied to image matching models")
