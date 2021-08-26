@@ -174,6 +174,10 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
   * LIME-G: Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal & Nguyen. ACCV 2020_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
 * SHAP: A Unified Approach to Interpreting Model Predictions. _Lundberg et al. 2017_ [pdf](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) | [code](https://github.com/slundberg/shap)
 * OSFT: Interpreting Black Box Models via Hypothesis Testing. _Burns et al. 2019_ [pdf](https://arxiv.org/pdf/1904.00045.pdf)
+* Interpretation of NLP models through input marginalization. _Kim et al. EMNLP 2020_ [pdf](https://arxiv.org/abs/2010.13984 "Use BERT to replace a given token in the input text and compute its attribution as the prediction-difference marginalized over all BERT-generated samples")
+  * Considering Likelihood in NLP Classification Explanations with Occlusion and Language Modeling. _Harbecke et al. 2020_ [pdf](https://arxiv.org/abs/2004.09890 "Same idea as Kim et al. EMNLP 2020 above. Additionally, they found the Kim et al. 2020 method to not exactly correlate with the traditional Deletion/Leave-One-Out method")
+
+
 
 ### B1.4 Evaluating heatmaps
 
