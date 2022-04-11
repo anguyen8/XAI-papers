@@ -96,7 +96,6 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
   * Understanding the Role of Individual Units in a Deep Neural Network. _Bau et al. PNAS 2020_ [pdf](https://arxiv.org/abs/2009.05041)
 
 
-
 ## A5. Network surgery
 * How Important Is a Neuron? _Dhamdhere et al._ 2018 [pdf](https://arxiv.org/pdf/1805.12233.pdf)
 
@@ -159,6 +158,9 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 #### Computer Vision
 * Multimodal explanations: Justifying decisions and pointing to the evidence. _Park et al. CVPR 2018_ [pdf](https://arxiv.org/abs/1802.08129)
+* IA-RED2: Interpretability-Aware Redundancy Reduction for Vision Transformers. _Pan et al. NeurIPS 2021_ [pdf](https://arxiv.org/abs/2106.12620 "Sparsify attention maps of Vision Transformers to reduce inference speed and improve interpretability.")
+* Transformer Interpretability Beyond Attention Visualization. _Hila et al. CVPR 2021_ [pdf](https://arxiv.org/abs/2012.09838 "Create an attribution map for Vision Transformers by Gradient x Attention and using rollout to aggregate multiple attention layers") | [code](https://github.com/hila-chefer/Transformer-Explainability)
+* Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers. _Hila et al. ECCV 2021_ [pdf](https://arxiv.org/abs/2103.15679) | [code](https://github.com/hila-chefer/Transformer-MM-Explainability)
 
 #### NLP
 * Attention is not Explanation. _Jain & Wallace. NAACL 2019_ [pdf](https://www.aclweb.org/anthology/N19-1357.pdf)
