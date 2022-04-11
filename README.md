@@ -215,6 +215,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 #### Face verification
 * DISE: Explainable Face Recognition. _Williford et al. ECCV 2020_ [pdf](https://arxiv.org/abs/2008.00916 "Extension of RISE in face-matching. Mask out a small region in the query image to compute its attribution to the image-matching triplet loss") | [code](https://github.com/stresearch/xfr)
 * xCos: An explainable cosine metric for face verification task. _Lin et al. 2021_ [pdf](https://arxiv.org/abs/2003.05383) | [code](https://github.com/ntubiolin/xcos)
+* DeepFace-EMD: Re-ranking Using Patch-wise Earth Movers Distance Improves Out-Of-Distribution Face Identification. _Phan & Nguyen. CVPR 2022_ ([pdf](https://arxiv.org/abs/2112.04016 "Visualize the EMD flow map between two images to show how an a face identification system matches two faces.") | [code](https://github.com/anguyen8/deepface-emd))
 
 
 ## B2. Learning to explain
