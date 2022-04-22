@@ -34,6 +34,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 #### Opinions
 * Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead _Rudin et al. Nature 2019_ [pdf](https://www.nature.com/articles/s42256-019-0048-x)
 * Towards falsifiable interpretability research. _Leavitt & Morcos 2020_ [pdf](https://arxiv.org/abs/2010.12016 "Issues with the current evaluation of attribution maps, feature visualization methods and Best practices for robust, falsifiable interpretability research")
+* Four principles of Explainable Artificial Intelligence. _Phillips et al. 2021 (NIST.gov)_ [pdf](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf "An AI must provide explanations for its outputs and explanations must be meaningful/understandable to users and accurate. And the AI must know what it does not know.")
 
 
 #### Open research questions
