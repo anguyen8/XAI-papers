@@ -187,6 +187,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 #### Computer Vision
 * The (Un)reliability of saliency methods. _Kindermans et al. 2018_ [pdf](https://openreview.net/forum?id=r1Oen--RW)
 * ROAR: A Benchmark for Interpretability Methods in Deep Neural Networks. _Hooker et al. NeurIPS 2019_ [pdf](https://arxiv.org/abs/1806.10758) | [code](https://github.com/google-research/google-research/tree/master/interpretability_benchmark)
+  * DiffROAR: Do Input Gradients Highlight Discriminative Features? _Shah et al. NeurIPS 2021_ [pdf](https://arxiv.org/pdf/2102.12781.pdf "DiffROAR = ROAR(highest_attribution_pixels) - ROAR (lowest_attribution_pixels), which is expected to be zero for random attribution methods and highly positive for good attribution methods") | [code](https://github.com/harshays/inputgradients)
 * Sanity Checks for Saliency Maps. _Adebayo et al. 2018_ [pdf](http://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf)
 * A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations. _Nie et al. 2018_ [pdf](https://arxiv.org/abs/1805.07039)
 * BIM: Towards Quantitative Evaluation of Interpretability Methods with Ground Truth. _Yang et al. 2019_ [pdf](https://arxiv.org/abs/1907.09701)
