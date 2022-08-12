@@ -232,17 +232,20 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * L2E: Learning to Explain: Generating Stable Explanations Fast. _Situ et al. ACL 2021_ [pdf](https://aclanthology.org/2021.acl-long.415.pdf "Training neural networks to mimic a black-box attribution methods e.g. Occlusion, LIME, SHAP produces a faster and more stable explanation method.") | [code](https://github.com/situsnow/L2E)
 * Efficient Explanations from Empirical Explainers. _Schwarzenberg et al. 2021_ [pdf](https://arxiv.org/abs/2103.15429 "Training deep nets to approximate Integrated Gradient and Shapley methods")
 
-### B2.3 Explaining by examples (prototypes)
+### B2.3 Explaining by prototypes
 * This Looks Like That: Deep Learning for Interpretable Image Recognition. _Chen et al. NeurIPS 2019_ [pdf](https://arxiv.org/abs/1806.10574) | [code](https://github.com/cfchen-duke/ProtoPNet)
   * ProtoPNet: This Looks Like That, Because ... Explaining Prototypes for Interpretable Image Recognition. _Nauta et al. 2020_ [pdf](https://arxiv.org/pdf/2011.02863.pdf)
-  * NP-ProtoPNet: These do not Look Like Those. _Singh et al. 2021_ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9373404 "ProtoPNet with negative prototypes and applied to chest x-rays") 
+  * NP-ProtoPNet: These do not Look Like Those. _Singh et al. 2021_ [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9373404 "ProtoPNet with negative prototypes and applied to chest x-rays")
+
+### B2.4 Explaining by retrieving supporting examples
+* Corr: Visual correspondence-based explanations improve AI robustness and human-AI team accuracy. _Nguyen, Taesiri, Nguyen 2022._ [pdf](https://arxiv.org/abs/2208.00780 "An interpretable-by-design XAI method that first retrieves similar patches (like kNN) to the input image from a training set or knowledgebase and then use them as evidence to label the input image. EMD-Corr and CHM-Corr improves OOD accuracy on ImageNet and improve human accuracy on CUB.") | [code](https://github.com/anguyen8/visual-correspondence-XAI)
 
 
-### B2.4 Adversarial attacks on XAI systems with humans in the loop
+### B2.5 Adversarial attacks on XAI systems with humans in the loop
 * When and How to Fool Explainable Models (and Humans) with Adversarial Examples. _Vadilo et al. 2021_ [pdf](https://arxiv.org/abs/2107.01943 "A framework of scenarios, assumptions, and humans in an XAI system under adversarial attacks")
 * The effectiveness of feature attribution methods and its correlation with automatic evaluation scores. _Nguyen, Kim, Nguyen 2021_ [pdf](http://anhnguyen.me/project/feature-attribution-effectiveness/ "On image classification, feature attribution maps are less effective in improving human-AI team compared to a simple nearest-neighbor method. The effectiveness of heatmaps also does not correlate with their localization performance.")
 
-### B2.5 Others
+### B2.6 Others
 * Learning how to explain neural networks: PatternNet and PatternAttribution [pdf](https://arxiv.org/abs/1705.05598)
 * Deep Learning for Case-Based Reasoning through Prototypes [pdf](https://arxiv.org/pdf/1710.04806.pdf)
 * Unsupervised Learning of Neural Networks to Explain Neural Networks [pdf](https://arxiv.org/abs/1805.07468)
