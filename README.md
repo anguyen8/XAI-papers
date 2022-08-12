@@ -146,6 +146,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
   * Understanding Deep Networks via Extremal Perturbations and Smooth Masks. _Fong et al. ICCV 2019_ [pdf](https://arxiv.org/abs/1910.08485) | [code](https://github.com/ruthcfong/TorchRay/tree/normgrad)
 * FIDO: Explaining image classifiers by counterfactual generation. _Chang et al. ICLR 2019_ [pdf](https://arxiv.org/pdf/1807.08024.pdf)
 * FG-Vis: Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks. _Wagner et al. CVPR 2019_ [pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wagner_Interpretable_and_Fine-Grained_Visual_Explanations_for_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+* CEM: Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives. _Dhurandhar & Chen et al. NeurIPS 2018_ [pdf](https://proceedings.neurips.cc/paper/2018/file/c5ff2543b53f4cc0ad3819a36752467b-Paper.pdf "Learn a pixel-wise heatmap that highlights the missing feature in the input image in order for the input to be classified into a target class e.g., informing users that a top, horizontal stroke is missing for a digit to be a five.") | [code](https://github.com/IBM/Contrastive-Explanation-Method)
 
 #### Attributions of network biases
 * Full-Gradient Representation for Neural Network Visualization. _Srinivas et al. NeurIPS 2019_ [pdf](https://arxiv.org/pdf/1905.00780.pdf)
