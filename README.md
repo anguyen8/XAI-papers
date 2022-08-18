@@ -138,6 +138,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * `Smooth Grad-CAM++`: An Enhanced Inference Level Visualization Technique for Deep Convolutional Neural Network Models. _Omeiza et al. 2019_ [pdf](https://arxiv.org/pdf/1908.01224.pdf)
 * `NormGrad`: There and Back Again: Revisiting Backpropagation Saliency Methods. _Rebuffi et al. CVPR 2020_ [pdf](https://arxiv.org/abs/2004.02866) | [code](https://github.com/srebuffi/revisiting_saliency)
 * `Score-CAM`: Score-Weighted Visual Explanations for Convolutional Neural Networks. _Wang et al. CVPR 2020 workshop_ [pdf](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w1/Wang_Score-CAM_Score-Weighted_Visual_Explanations_for_Convolutional_Neural_Networks_CVPRW_2020_paper.pdf "Use activation maps to mask out the input image and generate masked inputs; Use the difference between the original score and score on masked inputs to weight the activation maps and linearly combine them into a Score-CAM heatmap.") | [code](https://github.com/haofanwang/Score-CAM)
+* `Relevance-CAM`: Your Model Already Knows Where to Look. _Lee et al. CVPR 2021_ [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Relevance-CAM_Your_Model_Already_Knows_Where_To_Look_CVPR_2021_paper.pdf "Relevance-CAM uses the LRP relevance score for each channel as the weight for linearly combining channels into a CAM heatmap.") | [code](https://github.com/mongeoroo/Relevance-CAM)
 
 
 #### Learning the heatmap
