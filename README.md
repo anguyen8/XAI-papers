@@ -62,7 +62,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Feature Visualization. _Olah et al. 2017_ [url](https://distill.pub/2017/feature-visualization)
 * Diverse feature visualizations reveal invariances in early layers of deep neural networks. _Cadena et al. 2018_ [pdf](https://arxiv.org/pdf/1807.10589.pdf)
 * Computer Vision with a Single (Robust) Classifier. _Santurkar et al. NeurIPS 2019_ [pdf](https://arxiv.org/abs/1906.09453) | [blog](http://gradsci.org/robust_apps) | [code](https://github.com/MadryLab/robustness_applications)
-* `BigGAN-AM`: Improving sample diversity of a pre-trained, class-conditional GAN by changing its class embeddings. _Li et al. 2019_ [pdf](https://arxiv.org/abs/1910.04760)
+* `BigGAN-AM`: A cost-effective method for improving and re-purposing large, pre-trained GANs by fine-tuning their class-embeddings. _Li et al. ACCV 2020_ [pdf](https://arxiv.org/abs/1910.04760) | [code](https://github.com/anguyen8/biggan-am)
 
 ### Real images / Segmentation Masks
 * Visualizing and Understanding Recurrent Networks. _Kaparthey et al. ICLR 2015_ [pdf](https://arxiv.org/abs/1506.02078)
