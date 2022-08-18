@@ -75,6 +75,8 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Understanding Deep Image Representations by Inverting Them. _Mahendran & Vedaldi. CVPR 2015_ [pdf](https://arxiv.org/abs/1412.0035)
 * Inverting Visual Representations with Convolutional Networks. _Dosovitskiy & Brox. CVPR 2016_ [pdf](https://arxiv.org/abs/1506.02753)
 * Neural network inversion beyond gradient descent. _Wong & Kolter. NIPS workshop 2017_ [pdf](http://opt-ml.org/papers/OPT2017_paper_38.pdf)
+*  Inverting Adversarially Robust Networks for Image Synthesis. _Rojas-Gomez et al. 2021_ [pdf](https://arxiv.org/abs/2106.06927) | [code](https://github.com/renanrojasg/adv_robust_autoencoder)
+
 
 ### A2.2 Inverting Generators
 * Image Processing Using Multi-Code GAN Prior. _Gu et al. 2019_ [pdf](https://arxiv.org/abs/1912.07116)
