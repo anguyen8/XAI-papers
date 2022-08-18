@@ -140,6 +140,8 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * `Score-CAM`: Score-Weighted Visual Explanations for Convolutional Neural Networks. _Wang et al. CVPR 2020 workshop_ [pdf](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w1/Wang_Score-CAM_Score-Weighted_Visual_Explanations_for_Convolutional_Neural_Networks_CVPRW_2020_paper.pdf "Use activation maps to mask out the input image and generate masked inputs; Use the difference between the original score and score on masked inputs to weight the activation maps and linearly combine them into a Score-CAM heatmap.") | [code](https://github.com/haofanwang/Score-CAM)
 * `Relevance-CAM`: Your Model Already Knows Where to Look. _Lee et al. CVPR 2021_ [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Relevance-CAM_Your_Model_Already_Knows_Where_To_Look_CVPR_2021_paper.pdf "Relevance-CAM uses the LRP relevance score for each channel as the weight for linearly combining channels into a CAM heatmap.") | [code](https://github.com/mongeoroo/Relevance-CAM)
 
+* `LIFT-CAM`: Towards Better Explanations of Class Activation Mapping. _Jung & Oh ICCV 2021_ [pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Jung_Towards_Better_Explanations_of_Class_Activation_Mapping_ICCV_2021_paper.pdf "Like Relevance-CAM, LIFT-CAM propose to use a DeepLIFT score, which estimates the Shapley contribution value, for each layer as the weight for linearly combining channels into a CAM heatmap.")
+
 
 #### Learning the heatmap
 * `MP`: Interpretable Explanations of Black Boxes by Meaningful Perturbation. _Fong et al. 2017_ [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Fong_Interpretable_Explanations_of_ICCV_2017_paper.pdf)
