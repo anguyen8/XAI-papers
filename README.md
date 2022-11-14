@@ -281,8 +281,12 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Generative causal explanations of black-box classifiers. _O’Shaughnessy et al. 2020_ [pdf](https://arxiv.org/abs/2006.13913) 
 * Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal et al. 2019_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
 
+# D. Explainable AI in the real world
+### Medical domains
+* A systematic review on the use of explainability in deep learning systems for computer aided diagnosis in radiology: Limited use of explainable AI?. _Groen et al. European Journal of Radiology 2022_ [pdf](https://www.sciencedirect.com/science/article/pii/S0720048X22004429 "XAI is used in 37% of diagnostic test studies for radiology that use end-to-end deep learning. Most studies use Class Activation Mapping.")
 
-# D. Others
+
+# E. Others
 * Yang, S. C. H., & Shafto, P. Explainable Artificial Intelligence via Bayesian Teaching. NIPS 2017 [pdf](http://shaftolab.com/assets/papers/yangShafto_NIPS_2017_machine_teaching.pdf)
 * Explainable AI for Designers: A Human-Centered Perspective on Mixed-Initiative Co-Creation [pdf](http://www.antoniosliapis.com/papers/explainable_ai_for_designers.pdf)
 * ICADx: Interpretable computer aided diagnosis of breast masses. _Kim et al. 2018_ [pdf](https://arxiv.org/abs/1805.08960)
