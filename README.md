@@ -282,8 +282,10 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * Removing input features via a generative model to explain their attributions to classifier's decisions. _Agarwal et al. 2019_ [pdf](https://arxiv.org/abs/1910.04256) | [code](https://github.com/anguyen8/generative-attribution-methods)
 
 # D. Explainable AI in the real world
+
 ### Medical domains
 * A systematic review on the use of explainability in deep learning systems for computer aided diagnosis in radiology: Limited use of explainable AI?. _Groen et al. European Journal of Radiology 2022_ [pdf](https://www.sciencedirect.com/science/article/pii/S0720048X22004429 "XAI is used in 37% of diagnostic test studies for radiology that use end-to-end deep learning. Most studies use Class Activation Mapping.")
+* “Help Me Help the AI”: Understanding How Explainability Can Support Human-AI Interaction. _Kim et al. 2022_ [pdf](https://arxiv.org/abs/2210.03735 "Practical recommendations and feedback for human-AI explanation designs from interviews with 20 end-users of Merlin, a bird-identification app.)
 
 
 # E. Others
