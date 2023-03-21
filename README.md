@@ -288,7 +288,12 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * “Help Me Help the AI”: Understanding How Explainability Can Support Human-AI Interaction. _Kim et al. 2022_ [pdf](https://arxiv.org/abs/2210.03735 "Practical recommendations and feedback for human-AI explanation designs from interviews with 20 end-users of Merlin, a bird-identification app.)
 
 
-# E. Others
+# E. Human-AI collaboration
+
+### Computer vision
+* Human-AI Collaboration: The Effect of AI Delegation on Human Task Performance and Task Satisfaction. _Hemmer et al. IUI 2023_ [pdf](https://arxiv.org/abs/2303.09224 "Letting AIs handle most images in image classification and leaving the harder ones to humans result in higher overall classification accuracy than humans alone".)
+
+# F. Others
 * Yang, S. C. H., & Shafto, P. Explainable Artificial Intelligence via Bayesian Teaching. NIPS 2017 [pdf](http://shaftolab.com/assets/papers/yangShafto_NIPS_2017_machine_teaching.pdf)
 * Explainable AI for Designers: A Human-Centered Perspective on Mixed-Initiative Co-Creation [pdf](http://www.antoniosliapis.com/papers/explainable_ai_for_designers.pdf)
 * ICADx: Interpretable computer aided diagnosis of breast masses. _Kim et al. 2018_ [pdf](https://arxiv.org/abs/1805.08960)
