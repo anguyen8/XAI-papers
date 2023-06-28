@@ -188,7 +188,7 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 
 
 
-### B1.4 Evaluating heatmaps
+### B1.4 Evaluating feature importance/attribution heatmaps
 
 #### Metrics
 * `Deletion` & `Insertion`: Randomized Input Sampling for Explanation of Black-box Models. _Petsiuk et al. BMVC 2018_ [pdf](https://arxiv.org/pdf/1806.07421.pdf)
@@ -199,9 +199,10 @@ This is an on-going attempt to consolidate interesting efforts in the area of un
 * `BIM`: Towards Quantitative Evaluation of Attribution Methods with Ground Truth. _Yang et al. 2019_ [pdf](https://arxiv.org/abs/1907.09701)
 * `SAM`: The Sensitivity of Attribution Methods to Hyperparameters. _Bansal, Agarwal, Nguyen. CVPR 2020_ [pdf](http://anhnguyen.me/project/sam/) | [code](https://github.com/anguyen8/sam)
 
-#### Human-study evaluation
+#### Evaluating heatmaps on humans
 * The effectiveness of feature attribution methods and its correlation with automatic evaluation scores. _Nguyen, Kim, Nguyen 2021_ [pdf](http://anhnguyen.me/project/feature-attribution-effectiveness/ "On image classification, feature attribution maps are less effective in improving human-AI team compared to a simple nearest-neighbor method. The effectiveness of heatmaps also does not correlate with their localization performance.")
 * Debugging Tests for Model Explanations. _Adebayo et al. NeurIPS 2020_ [pdf](https://proceedings.neurips.cc/paper/2020/file/075b051ec3d22dac7b33f788da631fd4-Paper.pdf "Testing an extensive list of attribution methods and humans when data contain spurious, correlated features, and on out-of-samples")
+* In Search of Verifiability: Explanations Rarely Enable Complementary Performance in AI-Advised Decision Making. _Fok & Weld. 2023_ [pdf](https://arxiv.org/abs/2305.07722)
 
 
 #### Computer Vision
